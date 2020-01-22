@@ -1,0 +1,1718 @@
+[2019-11-29T20:12:48.347] [INFO] server - Successfully processed dashboard query
+[2019-11-29T20:12:48.391] [INFO] server - Successfully processed dashboard query
+[2019-11-29T20:17:55.518] [INFO] server - WSMS servier listening on port 4000
+[2019-11-29T20:18:36.295] [INFO] server - Successfully processed dashboard query
+[2019-11-29T20:18:36.535] [INFO] server - Successfully processed dashboard query
+[2019-11-29T20:19:08.839] [INFO] server - WSMS servier listening on port 4000
+[2019-11-29T20:21:39.033] [INFO] server - WSMS servier listening on port 4000
+[2019-11-29T20:28:13.583] [INFO] server - WSMS servier listening on port 4000
+[2019-11-29T20:31:44.040] [INFO] server - WSMS servier listening on port 4000
+[2019-11-29T20:32:31.940] [INFO] server - WSMS servier listening on port 4000
+[2019-11-29T20:32:34.418] [INFO] server - WSMS servier listening on port 4000
+[2019-11-29T20:39:24.447] [INFO] server - WSMS servier listening on port 4000
+[2019-11-29T20:39:43.504] [INFO] server - WSMS servier listening on port 4000
+[2019-11-29T20:40:22.547] [INFO] server - WSMS servier listening on port 4000
+[2019-11-29T20:41:21.337] [INFO] server - Successfully proccessed login query
+[2019-11-29T20:41:21.338] [INFO] server - Successfully login
+[2019-11-29T20:41:21.455] [INFO] server - Successfully processed dashboard query
+[2019-11-29T20:41:21.474] [INFO] server - Successfully processed dashboard query
+[2019-11-29T20:42:16.628] [INFO] server - WSMS servier listening on port 4000
+[2019-11-29T20:42:27.102] [INFO] server - Successfully proccessed login query
+[2019-11-29T20:42:27.104] [INFO] server - Successfully login
+[2019-11-29T20:42:27.224] [INFO] server - Successfully processed dashboard query
+[2019-11-29T20:42:27.318] [INFO] server - Successfully processed dashboard query
+[2019-11-29T20:46:06.440] [INFO] server - WSMS servier listening on port 4000
+[2019-11-29T20:56:01.475] [INFO] server - WSMS servier listening on port 4000
+[2019-11-29T20:56:11.746] [INFO] server - Successfully proccessed login query
+[2019-11-29T20:56:11.748] [INFO] server - Successfully login
+[2019-11-29T20:56:11.910] [INFO] server - Successfully processed dashboard query
+[2019-11-29T20:56:11.932] [INFO] server - Successfully processed dashboard query
+[2019-11-29T20:56:25.638] [INFO] server - Successfully proccessed login query
+[2019-11-29T20:56:25.638] [DEBUG] server - User not exists.
+[2019-11-29T20:56:36.739] [INFO] server - Successfully registered new user
+[2019-11-29T20:56:46.363] [INFO] server - Successfully proccessed login query
+[2019-11-29T20:56:46.363] [INFO] server - Successfully login
+[2019-11-29T20:56:46.528] [INFO] server - Successfully processed dashboard query
+[2019-11-29T20:56:46.572] [INFO] server - Successfully processed dashboard query
+[2019-11-29T21:02:26.720] [INFO] server - WSMS servier listening on port 4000
+[2019-11-29T21:03:14.241] [INFO] server - WSMS servier listening on port 4000
+[2019-11-29T21:03:14.272] [INFO] server - User log transaction is sccuess
+[2019-11-29T21:09:28.328] [INFO] server - WSMS servier listening on port 4000
+[2019-11-29T21:09:46.152] [INFO] server - WSMS servier listening on port 4000
+[2019-11-29T21:10:58.184] [INFO] server - WSMS servier listening on port 4000
+[2019-11-29T21:10:58.217] [INFO] server - User log transaction is sccuess
+[2019-11-29T21:11:45.002] [INFO] server - WSMS servier listening on port 4000
+[2019-11-29T21:15:14.791] [INFO] server - WSMS servier listening on port 4000
+[2019-11-29T21:28:28.730] [INFO] server - WSMS servier listening on port 4000
+[2019-11-29T21:54:29.272] [INFO] server - WSMS servier listening on port 4000
+[2019-11-29T21:54:51.999] [INFO] server - WSMS servier listening on port 4000
+[2019-11-29T21:56:14.833] [INFO] server - Successfully added new sensor station
+[2019-11-29T21:56:14.841] [ERROR] server - null
+[2019-11-29T21:58:45.269] [INFO] server - WSMS servier listening on port 4000
+[2019-11-29T21:58:50.866] [INFO] server - Successfully added new sensor station
+[2019-11-29T21:58:50.875] [ERROR] server - null
+[2019-11-29T22:04:10.583] [INFO] server - WSMS servier listening on port 4000
+[2019-11-29T22:04:15.811] [INFO] server - Successfully added new sensor station
+[2019-11-29T22:04:28.637] [INFO] server - Successfully added new sensor station
+[2019-11-29T22:04:37.061] [INFO] server - Successfully added new sensor station
+[2019-11-29T22:04:45.855] [INFO] server - Successfully added new sensor station
+[2019-11-29T22:05:51.428] [INFO] server - WSMS servier listening on port 4000
+[2019-11-29T22:05:59.370] [INFO] server - Successfully added new sensor station
+[2019-11-29T22:05:59.382] [ERROR] server - null
+[2019-11-29T22:07:14.849] [INFO] server - WSMS servier listening on port 4000
+[2019-11-29T22:07:19.842] [INFO] server - Successfully added new sensor station
+[2019-11-29T22:07:19.854] [ERROR] server - null
+[2019-11-29T22:12:28.519] [INFO] server - WSMS servier listening on port 4000
+[2019-11-29T22:12:33.217] [ERROR] server - null
+[2019-11-29T22:17:01.791] [INFO] server - WSMS servier listening on port 4000
+[2019-11-29T22:17:06.697] [ERROR] server - null
+[2019-11-29T22:19:57.259] [INFO] server - WSMS servier listening on port 4000
+[2019-11-29T22:20:10.545] [INFO] server - WSMS servier listening on port 4000
+[2019-11-29T22:20:16.362] [ERROR] server - null
+[2019-11-29T22:21:16.786] [INFO] server - WSMS servier listening on port 4000
+[2019-11-29T22:21:24.154] [ERROR] server - null
+[2019-11-29T22:22:52.844] [INFO] server - WSMS servier listening on port 4000
+[2019-11-29T22:22:59.407] [INFO] server - User log transaction is sccuess
+[2019-11-29T22:24:09.986] [INFO] server - WSMS servier listening on port 4000
+[2019-11-29T22:24:14.810] [INFO] server - Successfully added new sensor station
+[2019-11-29T22:24:14.825] [INFO] server - User log transaction is sccuess
+[2019-11-29T22:24:22.029] [INFO] server - Successfully added new sensor station
+[2019-11-29T22:24:22.058] [INFO] server - User log transaction is sccuess
+[2019-11-29T22:24:23.388] [INFO] server - Successfully added new sensor station
+[2019-11-29T22:24:23.430] [INFO] server - User log transaction is sccuess
+[2019-11-29T22:25:36.933] [INFO] server - WSMS servier listening on port 4000
+[2019-11-29T22:26:12.744] [ERROR] server - Failed to add new sensor
+[2019-11-29T22:26:12.744] [TRACE] server - { Error: ER_NO_REFERENCED_ROW_2: Cannot add or update a child row: a foreign key constraint fails (`wsms`.`sensor`, CONSTRAINT `sensor_ibfk_1` FOREIGN KEY (`sensor_station_id`) REFERENCES `sensor_station` (`sensor_station_id`) ON DELETE CASCADE ON UPDATE CASCADE)
+    at Query.Sequence._packetToError (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/mysql/lib/protocol/sequences/Query.js:77:18)
+    at Protocol._parsePacket (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/mysql/lib/Connection.js:91:28)
+    at Socket.<anonymous> (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/mysql/lib/Connection.js:525:10)
+    at Socket.emit (events.js:197:13)
+    at addChunk (_stream_readable.js:288:12)
+    --------------------
+    at Protocol._enqueue (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/mysql/lib/protocol/Protocol.js:144:48)
+    at Connection.query (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/mysql/lib/Connection.js:201:25)
+    at app.get (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/index.js:288:16)
+    at Layer.handle [as handle_request] (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/express/lib/router/layer.js:95:5)
+    at next (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/express/lib/router/layer.js:95:5)
+    at /Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/express/lib/router/index.js:335:12)
+    at next (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/express/lib/router/index.js:275:10)
+  code: 'ER_NO_REFERENCED_ROW_2',
+  errno: 1452,
+  sqlMessage:
+   'Cannot add or update a child row: a foreign key constraint fails (`wsms`.`sensor`, CONSTRAINT `sensor_ibfk_1` FOREIGN KEY (`sensor_station_id`) REFERENCES `sensor_station` (`sensor_station_id`) ON DELETE CASCADE ON UPDATE CASCADE)',
+  sqlState: '23000',
+  index: 0,
+  sql:
+   "CALL InsertSensorData('1','2019-11-29','on','2','11.11','22.22' )" }
+[2019-11-29T22:26:12.773] [INFO] server - User log transaction is sccuess
+[2019-11-29T22:26:32.472] [INFO] server - Successfully added new sensor
+[2019-11-29T22:26:32.481] [INFO] server - User log transaction is sccuess
+[2019-11-29T22:27:03.877] [INFO] server - Successfully added new sensor
+[2019-11-29T22:27:03.893] [INFO] server - User log transaction is sccuess
+[2019-11-29T22:52:15.551] [INFO] server - WSMS servier listening on port 4000
+[2019-11-29T22:52:19.449] [INFO] server - Successfully added new sensor station
+[2019-11-29T22:52:19.465] [INFO] server - User log transaction is sccuess
+[2019-11-29T22:56:46.212] [INFO] server - Successfully added new sensor station
+[2019-11-29T22:56:46.254] [INFO] server - User log transaction is sccuess
+[2019-11-29T23:05:37.707] [INFO] server - WSMS servier listening on port 4000
+[2019-11-29T23:05:40.593] [INFO] server - WSMS servier listening on port 4000
+[2019-11-29T23:05:45.391] [ERROR] server - Failed to add new sensor station
+[2019-11-29T23:05:45.392] [TRACE] server - { Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '@message); select @message' at line 1
+    at Query.Sequence._packetToError (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/mysql/lib/protocol/sequences/Query.js:77:18)
+    at Protocol._parsePacket (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/mysql/lib/Connection.js:91:28)
+    at Socket.<anonymous> (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/mysql/lib/Connection.js:525:10)
+    at Socket.emit (events.js:197:13)
+    at addChunk (_stream_readable.js:288:12)
+    --------------------
+    at Protocol._enqueue (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/mysql/lib/protocol/Protocol.js:144:48)
+    at Connection.query (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/mysql/lib/Connection.js:201:25)
+    at app.get (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/index.js:333:16)
+    at Layer.handle [as handle_request] (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/express/lib/router/layer.js:95:5)
+    at next (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/express/lib/router/layer.js:95:5)
+    at /Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/express/lib/router/index.js:335:12)
+    at next (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/express/lib/router/index.js:275:10)
+  code: 'ER_PARSE_ERROR',
+  errno: 1064,
+  sqlMessage:
+   "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '@message); select @message' at line 1",
+  sqlState: '42000',
+  index: 0,
+  sql:
+   "CALL InsertSensorStationData('1','19','22' @message); select @message;" }
+[2019-11-29T23:05:45.408] [INFO] server - User log transaction is sccuess
+[2019-11-29T23:06:20.592] [ERROR] server - Failed to add new sensor station
+[2019-11-29T23:06:20.592] [TRACE] server - { Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '@message); select @message' at line 1
+    at Query.Sequence._packetToError (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/mysql/lib/protocol/sequences/Query.js:77:18)
+    at Protocol._parsePacket (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/mysql/lib/Connection.js:91:28)
+    at Socket.<anonymous> (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/mysql/lib/Connection.js:525:10)
+    at Socket.emit (events.js:197:13)
+    at addChunk (_stream_readable.js:288:12)
+    --------------------
+    at Protocol._enqueue (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/mysql/lib/protocol/Protocol.js:144:48)
+    at Connection.query (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/mysql/lib/Connection.js:201:25)
+    at app.get (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/index.js:333:16)
+    at Layer.handle [as handle_request] (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/express/lib/router/layer.js:95:5)
+    at next (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/express/lib/router/layer.js:95:5)
+    at /Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/express/lib/router/index.js:335:12)
+    at next (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/express/lib/router/index.js:275:10)
+  code: 'ER_PARSE_ERROR',
+  errno: 1064,
+  sqlMessage:
+   "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '@message); select @message' at line 1",
+  sqlState: '42000',
+  index: 0,
+  sql:
+   "CALL InsertSensorStationData('100','19','22' @message); select @message;" }
+[2019-11-29T23:06:20.644] [INFO] server - User log transaction is sccuess
+
+
+[2019-11-29T23:11:14.202] [ERROR] server - Failed to add new sensor station
+[2019-11-29T23:11:14.202] [TRACE] server - { Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '@message); select @message' at line 1
+    at Query.Sequence._packetToError (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/mysql/lib/protocol/sequences/Query.js:77:18)
+    at Protocol._parsePacket (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/mysql/lib/Connection.js:91:28)
+    at Socket.<anonymous> (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/mysql/lib/Connection.js:525:10)
+    at Socket.emit (events.js:197:13)
+    at addChunk (_stream_readable.js:288:12)
+    --------------------
+    at Protocol._enqueue (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/mysql/lib/protocol/Protocol.js:144:48)
+    at Connection.query (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/mysql/lib/Connection.js:201:25)
+    at app.get (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/index.js:333:16)
+    at Layer.handle [as handle_request] (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/express/lib/router/layer.js:95:5)
+    at next (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/express/lib/router/layer.js:95:5)
+    at /Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/express/lib/router/index.js:335:12)
+    at next (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/express/lib/router/index.js:275:10)
+  code: 'ER_PARSE_ERROR',
+  errno: 1064,
+  sqlMessage:
+   "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '@message); select @message' at line 1",
+  sqlState: '42000',
+  index: 0,
+  sql:
+   "CALL InsertSensorStationData('100','19','22' @message); select @message;" }
+[2019-11-29T23:11:14.219] [INFO] server - User log transaction is sccuess
+[2019-11-29T23:16:09.920] [ERROR] server - Failed to add new sensor station
+[2019-11-29T23:16:09.920] [TRACE] server - { Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '@message); select @message' at line 1
+    at Query.Sequence._packetToError (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/mysql/lib/protocol/sequences/Query.js:77:18)
+    at Protocol._parsePacket (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/mysql/lib/Connection.js:91:28)
+    at Socket.<anonymous> (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/mysql/lib/Connection.js:525:10)
+    at Socket.emit (events.js:197:13)
+    at addChunk (_stream_readable.js:288:12)
+    --------------------
+    at Protocol._enqueue (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/mysql/lib/protocol/Protocol.js:144:48)
+    at Connection.query (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/mysql/lib/Connection.js:201:25)
+    at app.get (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/index.js:333:16)
+    at Layer.handle [as handle_request] (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/express/lib/router/layer.js:95:5)
+    at next (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/express/lib/router/layer.js:95:5)
+    at /Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/express/lib/router/index.js:335:12)
+    at next (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/express/lib/router/index.js:275:10)
+  code: 'ER_PARSE_ERROR',
+  errno: 1064,
+  sqlMessage:
+   "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '@message); select @message' at line 1",
+  sqlState: '42000',
+  index: 0,
+  sql:
+   "CALL InsertSensorStationData('100','19','22' @message); select @message;" }
+[2019-11-29T23:16:09.975] [INFO] server - User log transaction is sccuess
+[2019-11-29T23:16:15.717] [ERROR] server - Failed to add new sensor station
+[2019-11-29T23:16:15.717] [TRACE] server - { Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '@message); select @message' at line 1
+    at Query.Sequence._packetToError (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/mysql/lib/protocol/sequences/Query.js:77:18)
+    at Protocol._parsePacket (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/mysql/lib/Connection.js:91:28)
+    at Socket.<anonymous> (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/mysql/lib/Connection.js:525:10)
+    at Socket.emit (events.js:197:13)
+    at addChunk (_stream_readable.js:288:12)
+    --------------------
+    at Protocol._enqueue (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/mysql/lib/protocol/Protocol.js:144:48)
+    at Connection.query (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/mysql/lib/Connection.js:201:25)
+    at app.get (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/index.js:333:16)
+    at Layer.handle [as handle_request] (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/express/lib/router/layer.js:95:5)
+    at next (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/express/lib/router/layer.js:95:5)
+    at /Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/express/lib/router/index.js:335:12)
+    at next (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/express/lib/router/index.js:275:10)
+  code: 'ER_PARSE_ERROR',
+  errno: 1064,
+  sqlMessage:
+   "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '@message); select @message' at line 1",
+  sqlState: '42000',
+  index: 0,
+  sql:
+   "CALL InsertSensorStationData('100','19','22' @message); select @message;" }
+[2019-11-29T23:16:15.832] [INFO] server - User log transaction is sccuess
+[2019-11-29T23:18:28.446] [INFO] server - WSMS servier listening on port 4000
+[2019-11-29T23:18:40.979] [INFO] server - WSMS servier listening on port 4000
+[2019-11-29T23:18:48.430] [ERROR] server - Failed to add new sensor station
+[2019-11-29T23:18:48.431] [TRACE] server - { Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '@message); select @message' at line 1
+    at Query.Sequence._packetToError (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/mysql/lib/protocol/sequences/Query.js:77:18)
+    at Protocol._parsePacket (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/mysql/lib/Connection.js:91:28)
+    at Socket.<anonymous> (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/mysql/lib/Connection.js:525:10)
+    at Socket.emit (events.js:197:13)
+    at addChunk (_stream_readable.js:288:12)
+    --------------------
+    at Protocol._enqueue (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/mysql/lib/protocol/Protocol.js:144:48)
+    at Connection.query (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/mysql/lib/Connection.js:201:25)
+    at app.get (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/index.js:330:16)
+    at Layer.handle [as handle_request] (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/express/lib/router/layer.js:95:5)
+    at next (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/express/lib/router/layer.js:95:5)
+    at /Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/express/lib/router/index.js:335:12)
+    at next (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/express/lib/router/index.js:275:10)
+  code: 'ER_PARSE_ERROR',
+  errno: 1064,
+  sqlMessage:
+   "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '@message); select @message' at line 1",
+  sqlState: '42000',
+  index: 0,
+  sql:
+   "CALL InsertSensorStationData('100','19','22' @message); select @message;" }
+[2019-11-29T23:18:48.466] [INFO] server - User log transaction is sccuess
+[2019-11-29T23:19:10.067] [INFO] server - WSMS servier listening on port 4000
+[2019-11-29T23:19:12.019] [ERROR] server - Failed to add new sensor station
+[2019-11-29T23:19:12.019] [TRACE] server - { Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '@message); select @message' at line 1
+    at Query.Sequence._packetToError (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/mysql/lib/protocol/sequences/Query.js:77:18)
+    at Protocol._parsePacket (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/mysql/lib/Connection.js:91:28)
+    at Socket.<anonymous> (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/mysql/lib/Connection.js:525:10)
+    at Socket.emit (events.js:197:13)
+    at addChunk (_stream_readable.js:288:12)
+    --------------------
+    at Protocol._enqueue (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/mysql/lib/protocol/Protocol.js:144:48)
+    at Connection.query (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/mysql/lib/Connection.js:201:25)
+    at app.get (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/index.js:331:16)
+    at Layer.handle [as handle_request] (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/express/lib/router/layer.js:95:5)
+    at next (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/express/lib/router/layer.js:95:5)
+    at /Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/express/lib/router/index.js:335:12)
+    at next (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/express/lib/router/index.js:275:10)
+  code: 'ER_PARSE_ERROR',
+  errno: 1064,
+  sqlMessage:
+   "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '@message); select @message' at line 1",
+  sqlState: '42000',
+  index: 0,
+  sql:
+   "CALL InsertSensorStationData('100','19','22' @message); select @message;" }
+[2019-11-29T23:19:12.072] [INFO] server - User log transaction is sccuess
+[2019-11-29T23:20:32.457] [INFO] server - WSMS servier listening on port 4000
+[2019-11-29T23:20:34.777] [INFO] server - Successfully added new sensor station
+[2019-11-29T23:20:34.834] [INFO] server - User log transaction is sccuess
+[2019-11-29T23:22:33.917] [INFO] server - WSMS servier listening on port 4000
+[2019-11-29T23:22:36.278] [INFO] server - Successfully added new sensor station
+[2019-11-29T23:22:36.328] [INFO] server - User log transaction is sccuess
+[2019-11-29T23:23:48.614] [INFO] server - WSMS servier listening on port 4000
+[2019-11-29T23:23:52.726] [INFO] server - Successfully added new sensor station
+[2019-11-29T23:23:52.739] [INFO] server - User log transaction is sccuess
+[2019-11-29T23:24:16.355] [INFO] server - WSMS servier listening on port 4000
+[2019-11-29T23:24:18.127] [INFO] server - Successfully added new sensor station
+[2019-11-29T23:24:18.140] [INFO] server - User log transaction is sccuess
+[2019-11-29T23:25:00.473] [INFO] server - WSMS servier listening on port 4000
+[2019-11-29T23:25:03.129] [INFO] server - Successfully added new sensor station
+[2019-11-29T23:25:03.142] [INFO] server - User log transaction is sccuess
+[2019-11-29T23:26:28.381] [INFO] server - WSMS servier listening on port 4000
+[2019-11-29T23:26:32.733] [INFO] server - Successfully added new sensor station
+[2019-11-29T23:26:32.779] [INFO] server - User log transaction is sccuess
+[2019-11-29T23:27:28.612] [INFO] server - WSMS servier listening on port 4000
+[2019-11-29T23:27:34.736] [INFO] server - Successfully added new sensor station
+[2019-11-29T23:27:34.784] [INFO] server - User log transaction is sccuess
+[2019-11-29T23:28:51.718] [INFO] server - WSMS servier listening on port 4000
+[2019-11-29T23:28:54.340] [INFO] server - Successfully added new sensor station
+[2019-11-29T23:28:54.355] [INFO] server - User log transaction is sccuess
+[2019-11-29T23:30:04.618] [INFO] server - WSMS servier listening on port 4000
+[2019-11-29T23:30:09.149] [INFO] server - Successfully added new sensor station
+[2019-11-29T23:30:09.197] [INFO] server - User log transaction is sccuess
+[2019-11-29T23:30:16.199] [INFO] server - WSMS servier listening on port 4000
+[2019-11-29T23:30:19.857] [INFO] server - Successfully added new sensor station
+[2019-11-29T23:30:19.898] [INFO] server - User log transaction is sccuess
+[2019-11-29T23:30:31.386] [INFO] server - WSMS servier listening on port 4000
+[2019-11-29T23:30:33.541] [INFO] server - Successfully added new sensor station
+[2019-11-29T23:30:33.589] [INFO] server - User log transaction is sccuess
+[2019-11-29T23:30:48.597] [INFO] server - Successfully added new sensor station
+[2019-11-29T23:30:48.651] [INFO] server - User log transaction is sccuess
+[2019-11-29T23:42:32.140] [INFO] server - WSMS servier listening on port 4000
+[2019-11-29T23:42:53.780] [INFO] server - WSMS servier listening on port 4000
+[2019-11-29T23:43:02.538] [INFO] server - Successfully added new sensor station
+[2019-11-29T23:43:02.574] [INFO] server - User log transaction is sccuess
+[2019-11-29T23:43:23.043] [INFO] server - WSMS servier listening on port 4000
+[2019-11-29T23:43:26.370] [INFO] server - Successfully added new sensor station
+[2019-11-29T23:43:26.414] [INFO] server - User log transaction is sccuess
+[2019-11-29T23:43:43.153] [INFO] server - WSMS servier listening on port 4000
+[2019-11-29T23:43:47.364] [INFO] server - Successfully added new sensor station
+[2019-11-29T23:43:47.416] [INFO] server - User log transaction is sccuess
+[2019-11-29T23:48:17.773] [INFO] server - WSMS servier listening on port 4000
+[2019-11-29T23:48:23.721] [INFO] server - Successfully added/updated new sensor station
+[2019-11-29T23:48:23.734] [INFO] server - User log transaction is sccuess
+[2019-11-29T23:48:49.951] [INFO] server - WSMS servier listening on port 4000
+[2019-11-29T23:49:58.709] [INFO] server - WSMS servier listening on port 4000
+[2019-11-29T23:50:11.971] [ERROR] server - Failed to add new sensor
+[2019-11-29T23:50:11.972] [TRACE] server - { Error: ER_NO_REFERENCED_ROW_2: Cannot add or update a child row: a foreign key constraint fails (`wsms`.`sensor`, CONSTRAINT `sensor_ibfk_1` FOREIGN KEY (`sensor_station_id`) REFERENCES `sensor_station` (`sensor_station_id`) ON DELETE CASCADE ON UPDATE CASCADE)
+    at Query.Sequence._packetToError (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/mysql/lib/protocol/sequences/Query.js:77:18)
+    at Protocol._parsePacket (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/mysql/lib/Connection.js:91:28)
+    at Socket.<anonymous> (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/mysql/lib/Connection.js:525:10)
+    at Socket.emit (events.js:197:13)
+    at addChunk (_stream_readable.js:288:12)
+    --------------------
+    at Protocol._enqueue (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/mysql/lib/protocol/Protocol.js:144:48)
+    at Connection.query (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/mysql/lib/Connection.js:201:25)
+    at app.get (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/index.js:287:16)
+    at Layer.handle [as handle_request] (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/express/lib/router/layer.js:95:5)
+    at next (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/express/lib/router/layer.js:95:5)
+    at /Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/express/lib/router/index.js:335:12)
+    at next (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/express/lib/router/index.js:275:10)
+  code: 'ER_NO_REFERENCED_ROW_2',
+  errno: 1452,
+  sqlMessage:
+   'Cannot add or update a child row: a foreign key constraint fails (`wsms`.`sensor`, CONSTRAINT `sensor_ibfk_1` FOREIGN KEY (`sensor_station_id`) REFERENCES `sensor_station` (`sensor_station_id`) ON DELETE CASCADE ON UPDATE CASCADE)',
+  sqlState: '23000',
+  index: 0,
+  sql:
+   "CALL InsertSensorData('1','2019-11-29','on','2','11.11','22.22', @message); select @message;" }
+[2019-11-29T23:50:12.037] [INFO] server - User log transaction is sccuess
+[2019-11-29T23:50:17.773] [INFO] server - Successfully added new sensor
+[2019-11-29T23:50:17.784] [INFO] server - User log transaction is sccuess
+[2019-11-29T23:50:50.706] [INFO] server - WSMS servier listening on port 4000
+[2019-11-29T23:50:53.493] [INFO] server - Successfully added new sensor
+[2019-11-29T23:50:53.525] [INFO] server - User log transaction is sccuess
+[2019-11-29T23:51:03.423] [INFO] server - Successfully added new sensor
+[2019-11-29T23:51:03.437] [INFO] server - User log transaction is sccuess
+[2019-11-29T23:51:09.373] [INFO] server - Successfully added new sensor
+[2019-11-29T23:51:09.389] [INFO] server - User log transaction is sccuess
+[2019-11-29T23:53:07.497] [INFO] server - WSMS servier listening on port 4000
+[2019-11-29T23:53:37.321] [INFO] server - WSMS servier listening on port 4000
+[2019-11-29T23:54:17.791] [INFO] server - Successfully registered new user
+[2019-11-29T23:54:27.040] [INFO] server - Successfully proccessed login query
+[2019-11-29T23:54:27.040] [DEBUG] server - Passward or permission is not right
+[2019-11-29T23:54:32.133] [INFO] server - Successfully proccessed login query
+[2019-11-29T23:54:32.133] [DEBUG] server - Passward or permission is not right
+[2019-11-29T23:54:38.778] [INFO] server - Successfully proccessed login query
+[2019-11-29T23:54:38.778] [DEBUG] server - Passward or permission is not right
+[2019-11-29T23:54:51.039] [INFO] server - Successfully registered new user
+[2019-11-29T23:55:02.179] [INFO] server - Successfully proccessed login query
+[2019-11-29T23:55:02.179] [DEBUG] server - Passward or permission is not right
+[2019-11-29T23:55:19.101] [INFO] server - Successfully proccessed login query
+[2019-11-29T23:55:19.101] [DEBUG] server - Passward or permission is not right
+[2019-11-29T23:55:40.848] [INFO] server - Successfully proccessed login query
+[2019-11-29T23:55:40.848] [DEBUG] server - User not exists.
+[2019-11-29T23:55:52.186] [INFO] server - Successfully registered new user
+[2019-11-29T23:56:02.803] [INFO] server - Successfully proccessed login query
+[2019-11-29T23:56:02.803] [DEBUG] server - Passward or permission is not right
+[2019-11-29T23:56:43.097] [INFO] server - Successfully proccessed login query
+[2019-11-29T23:56:43.097] [DEBUG] server - User not exists.
+[2019-11-29T23:56:53.648] [INFO] server - Successfully registered new user
+[2019-11-29T23:57:02.413] [INFO] server - Successfully proccessed login query
+[2019-11-29T23:57:02.414] [DEBUG] server - Passward or permission is not right
+[2019-11-29T23:59:22.395] [INFO] server - WSMS servier listening on port 4000
+[2019-11-29T23:59:40.726] [INFO] server - Successfully proccessed login query
+[2019-11-29T23:59:40.731] [DEBUG] server - Passward or permission is not right
+[2019-11-30T00:00:04.803] [INFO] server - Successfully registered new user
+[2019-11-30T00:00:13.005] [INFO] server - Successfully proccessed login query
+[2019-11-30T00:00:13.006] [DEBUG] server - Passward or permission is not right
+[2019-11-30T00:00:42.770] [INFO] server - WSMS servier listening on port 4000
+[2019-11-30T00:01:12.907] [INFO] server - Successfully proccessed login query
+[2019-11-30T00:01:12.907] [DEBUG] server - User not exists.
+[2019-11-30T00:01:24.357] [INFO] server - Successfully registered new user
+[2019-11-30T00:01:32.906] [INFO] server - Successfully proccessed login query
+[2019-11-30T00:01:32.914] [INFO] server - Successfully login
+[2019-11-30T00:01:33.019] [INFO] server - Successfully processed dashboard query
+[2019-11-30T00:01:33.024] [INFO] server - Successfully processed dashboard query
+[2019-11-30T00:02:02.775] [ERROR] server - Failed to add new sensor
+[2019-11-30T00:02:02.776] [TRACE] server - { Error: ER_NO_REFERENCED_ROW_2: Cannot add or update a child row: a foreign key constraint fails (`wsms`.`sensor`, CONSTRAINT `sensor_ibfk_1` FOREIGN KEY (`sensor_station_id`) REFERENCES `sensor_station` (`sensor_station_id`) ON DELETE CASCADE ON UPDATE CASCADE)
+    at Query.Sequence._packetToError (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/mysql/lib/protocol/sequences/Query.js:77:18)
+    at Protocol._parsePacket (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/mysql/lib/Connection.js:91:28)
+    at Socket.<anonymous> (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/mysql/lib/Connection.js:525:10)
+    at Socket.emit (events.js:197:13)
+    at addChunk (_stream_readable.js:288:12)
+    --------------------
+    at Protocol._enqueue (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/mysql/lib/protocol/Protocol.js:144:48)
+    at Connection.query (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/mysql/lib/Connection.js:201:25)
+    at app.post (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/index.js:292:16)
+    at Layer.handle [as handle_request] (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/express/lib/router/layer.js:95:5)
+    at next (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/express/lib/router/layer.js:95:5)
+    at /Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/express/lib/router/index.js:335:12)
+    at next (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/express/lib/router/index.js:275:10)
+  code: 'ER_NO_REFERENCED_ROW_2',
+  errno: 1452,
+  sqlMessage:
+   'Cannot add or update a child row: a foreign key constraint fails (`wsms`.`sensor`, CONSTRAINT `sensor_ibfk_1` FOREIGN KEY (`sensor_station_id`) REFERENCES `sensor_station` (`sensor_station_id`) ON DELETE CASCADE ON UPDATE CASCADE)',
+  sqlState: '23000',
+  index: 0,
+  sql:
+   "CALL InsertSensorData('test1','2019-11-30','on','ts1','123.23','113.24', @message); select @message;" }
+[2019-11-30T00:02:02.808] [INFO] server - Admin log transaction is sccuess
+[2019-11-30T00:02:22.060] [INFO] server - Successfully added/updated new sensor station
+[2019-11-30T00:02:22.068] [INFO] server - Admin log transaction is sccuess
+[2019-11-30T00:03:14.914] [INFO] server - WSMS servier listening on port 4000
+[2019-11-30T00:03:27.118] [INFO] server - Successfully added/updated new sensor station
+[2019-11-30T00:03:27.160] [INFO] server - User log transaction is sccuess
+[2019-11-30T00:07:44.918] [INFO] server - Successfully added/updated new sensor station
+[2019-11-30T00:07:44.972] [INFO] server - User log transaction is sccuess
+[2019-11-30T00:10:16.022] [INFO] server - Successfully added/updated new sensor station
+[2019-11-30T00:10:16.074] [INFO] server - User log transaction is sccuess
+[2019-11-30T00:11:23.896] [INFO] server - WSMS servier listening on port 4000
+[2019-11-30T00:11:36.140] [INFO] server - Successfully added/updated new sensor station
+[2019-11-30T00:11:36.175] [INFO] server - User log transaction is sccuess
+[2019-11-30T00:13:34.904] [INFO] server - WSMS servier listening on port 4000
+[2019-11-30T00:14:02.034] [INFO] server - Successfully added/updated new sensor station
+[2019-11-30T00:14:02.091] [INFO] server - User log transaction is sccuess
+[2019-11-30T00:14:29.918] [INFO] server - WSMS servier listening on port 4000
+[2019-11-30T00:15:06.589] [INFO] server - WSMS servier listening on port 4000
+[2019-11-30T00:15:20.905] [INFO] server - Successfully added/updated new sensor station
+[2019-11-30T00:15:20.932] [INFO] server - User log transaction is sccuess
+[2019-11-30T00:16:25.732] [INFO] server - Successfully added/updated new sensor station
+[2019-11-30T00:16:25.781] [INFO] server - User log transaction is sccuess
+[2019-11-30T00:26:46.179] [INFO] server - Successfully added/updated new sensor station
+[2019-11-30T00:26:46.287] [INFO] server - User log transaction is sccuess
+[2019-11-30T00:30:02.863] [INFO] server - Successfully added/updated new sensor station
+[2019-11-30T00:30:02.896] [INFO] server - User log transaction is sccuess
+[2019-11-30T00:31:26.082] [INFO] server - Successfully added new sensor
+[2019-11-30T00:31:26.096] [INFO] server - User log transaction is sccuess
+[2019-11-30T00:31:39.633] [INFO] server - Successfully added new sensor
+[2019-11-30T00:31:39.681] [INFO] server - User log transaction is sccuess
+[2019-11-30T00:31:50.931] [INFO] server - Successfully deleted sensor
+[2019-11-30T00:31:50.940] [INFO] server - User log transaction is sccuess
+[2019-11-30T00:31:57.944] [ERROR] server - Failed to delete sensor station
+[2019-11-30T00:31:57.944] [TRACE] server - { Error: ER_TRUNCATED_WRONG_VALUE: Truncated incorrect DOUBLE value: 'te1'
+    at Query.Sequence._packetToError (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/mysql/lib/protocol/sequences/Query.js:77:18)
+    at Protocol._parsePacket (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/mysql/lib/Connection.js:91:28)
+    at Socket.<anonymous> (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/mysql/lib/Connection.js:525:10)
+    at Socket.emit (events.js:197:13)
+    at addChunk (_stream_readable.js:288:12)
+    --------------------
+    at Protocol._enqueue (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/mysql/lib/protocol/Protocol.js:144:48)
+    at Connection.query (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/mysql/lib/Connection.js:201:25)
+    at app.delete (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/index.js:353:16)
+    at Layer.handle [as handle_request] (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/express/lib/router/layer.js:95:5)
+    at next (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/express/lib/router/layer.js:95:5)
+    at /Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/express/lib/router/index.js:335:12)
+    at next (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/express/lib/router/index.js:275:10)
+  code: 'ER_TRUNCATED_WRONG_VALUE',
+  errno: 1292,
+  sqlMessage: "Truncated incorrect DOUBLE value: 'te1'",
+  sqlState: '22007',
+  index: 0,
+  sql: 'DELETE FROM sensor_station WHERE sensor_station_id = 8908;' }
+[2019-11-30T00:31:57.955] [INFO] server - User log transaction is sccuess
+[2019-11-30T00:33:02.733] [INFO] server - Successfully deleted sensor station
+[2019-11-30T00:33:02.735] [ERROR] server - null
+[2019-11-30T00:34:07.527] [INFO] server - WSMS servier listening on port 4000
+[2019-11-30T00:34:14.395] [INFO] server - Successfully added/updated new sensor station
+[2019-11-30T00:34:14.437] [ERROR] server - null
+[2019-11-30T00:35:02.075] [INFO] server - WSMS servier listening on port 4000
+[2019-11-30T00:35:22.200] [INFO] server - Successfully added/updated new sensor station
+[2019-11-30T00:35:22.244] [INFO] server - User log transaction is sccuess
+[2019-11-30T00:35:30.588] [INFO] server - Successfully deleted sensor station
+[2019-11-30T00:35:30.597] [INFO] server - User log transaction is sccuess
+[2019-11-30T00:35:53.142] [ERROR] server - Failed to add new sensor
+[2019-11-30T00:35:53.142] [TRACE] server - { Error: ER_NO_REFERENCED_ROW_2: Cannot add or update a child row: a foreign key constraint fails (`wsms`.`sensor`, CONSTRAINT `sensor_ibfk_1` FOREIGN KEY (`sensor_station_id`) REFERENCES `sensor_station` (`sensor_station_id`) ON DELETE CASCADE ON UPDATE CASCADE)
+    at Query.Sequence._packetToError (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/mysql/lib/protocol/sequences/Query.js:77:18)
+    at Protocol._parsePacket (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/mysql/lib/Connection.js:91:28)
+    at Socket.<anonymous> (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/mysql/lib/Connection.js:525:10)
+    at Socket.emit (events.js:197:13)
+    at addChunk (_stream_readable.js:288:12)
+    --------------------
+    at Protocol._enqueue (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/mysql/lib/protocol/Protocol.js:144:48)
+    at Connection.query (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/mysql/lib/Connection.js:201:25)
+    at app.post (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/index.js:292:16)
+    at Layer.handle [as handle_request] (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/express/lib/router/layer.js:95:5)
+    at next (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/express/lib/router/layer.js:95:5)
+    at /Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/express/lib/router/index.js:335:12)
+    at next (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/express/lib/router/index.js:275:10)
+  code: 'ER_NO_REFERENCED_ROW_2',
+  errno: 1452,
+  sqlMessage:
+   'Cannot add or update a child row: a foreign key constraint fails (`wsms`.`sensor`, CONSTRAINT `sensor_ibfk_1` FOREIGN KEY (`sensor_station_id`) REFERENCES `sensor_station` (`sensor_station_id`) ON DELETE CASCADE ON UPDATE CASCADE)',
+  sqlState: '23000',
+  index: 0,
+  sql:
+   "CALL InsertSensorData('223','2019-11-28','on','8908','13.24','34.43', @message); select @message;" }
+[2019-11-30T00:35:53.153] [INFO] server - User log transaction is sccuess
+[2019-11-30T00:36:02.990] [INFO] server - Successfully added/updated new sensor station
+[2019-11-30T00:36:02.999] [INFO] server - User log transaction is sccuess
+[2019-11-30T00:36:07.040] [INFO] server - Successfully added new sensor
+[2019-11-30T00:36:07.046] [INFO] server - User log transaction is sccuess
+[2019-11-30T00:36:12.739] [INFO] server - Successfully deleted sensor
+[2019-11-30T00:36:12.741] [ERROR] server - null
+[2019-11-30T01:03:07.660] [INFO] server - WSMS servier listening on port 4000
+[2019-11-30T01:03:30.631] [INFO] server - Successfully processed dashboard query
+[2019-11-30T01:05:58.756] [INFO] server - Successfully processed dashboard query
+[2019-11-30T01:09:19.427] [ERROR] server - Failed to register new user
+[2019-11-30T01:09:28.943] [INFO] server - Successfully proccessed login query
+[2019-11-30T01:09:28.949] [DEBUG] server - Passward or permission is not right
+[2019-11-30T01:09:33.877] [INFO] server - Successfully proccessed login query
+[2019-11-30T01:09:33.877] [DEBUG] server - Passward or permission is not right
+[2019-11-30T01:09:36.095] [INFO] server - Successfully proccessed login query
+[2019-11-30T01:09:36.095] [DEBUG] server - Passward or permission is not right
+[2019-11-30T01:09:37.992] [INFO] server - Successfully proccessed login query
+[2019-11-30T01:09:37.992] [DEBUG] server - Passward or permission is not right
+[2019-11-30T01:10:21.640] [ERROR] server - Failed to register new user
+[2019-11-30T01:12:35.445] [INFO] server - WSMS servier listening on port 4000
+[2019-11-30T01:13:25.205] [INFO] server - Successfully proccessed login query
+[2019-11-30T01:13:25.211] [DEBUG] server - Passward or permission is not right
+[2019-11-30T01:13:28.050] [INFO] server - Successfully proccessed login query
+[2019-11-30T01:13:28.053] [DEBUG] server - Passward or permission is not right
+[2019-11-30T01:13:29.039] [INFO] server - Successfully proccessed login query
+[2019-11-30T01:13:29.040] [DEBUG] server - Passward or permission is not right
+[2019-11-30T01:13:29.349] [INFO] server - Successfully proccessed login query
+[2019-11-30T01:13:29.350] [DEBUG] server - Passward or permission is not right
+[2019-11-30T01:13:29.549] [INFO] server - Successfully proccessed login query
+[2019-11-30T01:13:29.550] [DEBUG] server - Passward or permission is not right
+[2019-11-30T01:13:29.779] [INFO] server - Successfully proccessed login query
+[2019-11-30T01:13:29.780] [DEBUG] server - Passward or permission is not right
+[2019-11-30T01:13:42.487] [INFO] server - Successfully proccessed login query
+[2019-11-30T01:13:42.487] [DEBUG] server - Passward or permission is not right
+[2019-11-30T01:14:38.032] [INFO] server - WSMS servier listening on port 4000
+[2019-11-30T01:14:49.975] [INFO] server - Successfully registered new user
+[2019-11-30T01:14:57.319] [INFO] server - Successfully proccessed login query
+[2019-11-30T01:14:57.321] [DEBUG] server - Passward or permission is not right
+[2019-11-30T01:15:55.160] [INFO] server - Successfully proccessed login query
+[2019-11-30T01:15:55.161] [DEBUG] server - Passward or permission is not right
+[2019-11-30T01:16:51.416] [INFO] server - WSMS servier listening on port 4000
+[2019-11-30T01:17:01.619] [INFO] server - Successfully proccessed login query
+[2019-11-30T01:17:01.619] [INFO] server - Successfully login
+[2019-11-30T01:17:01.701] [INFO] server - Successfully processed dashboard query
+[2019-11-30T01:17:01.775] [INFO] server - Successfully processed dashboard query
+[2019-11-30T01:17:58.880] [INFO] server - Successfully processed dashboard query
+[2019-11-30T01:17:58.980] [INFO] server - Successfully processed dashboard query
+[2019-11-30T01:18:34.798] [INFO] server - Successfully proccessed login query
+[2019-11-30T01:18:34.798] [INFO] server - Successfully login
+[2019-11-30T01:18:34.875] [INFO] server - Successfully processed dashboard query
+[2019-11-30T01:18:34.904] [INFO] server - Successfully processed dashboard query
+[2019-11-30T01:19:09.471] [INFO] server - Successfully processed dashboard query
+[2019-11-30T01:19:09.705] [INFO] server - Successfully processed dashboard query
+[2019-11-30T01:19:14.925] [INFO] server - Successfully processed dashboard query
+[2019-11-30T01:19:15.115] [INFO] server - Successfully processed dashboard query
+[2019-11-30T01:19:31.744] [INFO] server - Successfully proccessed login query
+[2019-11-30T01:19:31.744] [INFO] server - Successfully login
+[2019-11-30T01:19:31.844] [INFO] server - Successfully processed dashboard query
+[2019-11-30T01:19:31.850] [INFO] server - Successfully processed dashboard query
+[2019-11-30T01:20:21.767] [INFO] server - Successfully processed dashboard query
+[2019-11-30T01:20:22.018] [INFO] server - Successfully processed dashboard query
+[2019-11-30T01:20:41.603] [INFO] server - Successfully proccessed login query
+[2019-11-30T01:20:41.603] [INFO] server - Successfully login
+[2019-11-30T01:20:41.685] [INFO] server - Successfully processed dashboard query
+[2019-11-30T01:20:41.719] [INFO] server - Successfully processed dashboard query
+[2019-11-30T01:21:27.975] [INFO] server - Successfully processed dashboard query
+[2019-11-30T01:22:56.902] [INFO] server - WSMS servier listening on port 4000
+[2019-11-30T01:23:01.058] [INFO] server - Successfully processed dashboard query
+[2019-11-30T01:24:27.099] [INFO] server - Successfully proccessed login query
+[2019-11-30T01:24:27.099] [INFO] server - Successfully login
+[2019-11-30T01:24:27.186] [INFO] server - Successfully processed dashboard query
+[2019-11-30T01:24:27.241] [INFO] server - Successfully processed dashboard query
+[2019-11-30T01:25:02.612] [INFO] server - Successfully proccessed login query
+[2019-11-30T01:25:02.612] [INFO] server - Successfully login
+[2019-11-30T01:25:02.835] [INFO] server - Successfully processed dashboard query
+[2019-11-30T01:25:02.885] [INFO] server - Successfully processed dashboard query
+[2019-11-30T01:25:23.389] [INFO] server - Successfully processed dashboard query
+[2019-11-30T01:26:10.299] [INFO] server - Successfully processed dashboard query
+[2019-11-30T01:26:10.494] [INFO] server - Successfully processed dashboard query
+[2019-11-30T01:26:25.239] [INFO] server - Successfully proccessed login query
+[2019-11-30T01:26:25.239] [INFO] server - Successfully login
+[2019-11-30T01:26:25.404] [INFO] server - Successfully processed dashboard query
+[2019-11-30T01:26:25.444] [INFO] server - Successfully processed dashboard query
+[2019-11-30T01:26:44.594] [INFO] server - Successfully processed dashboard query
+[2019-11-30T01:26:44.906] [INFO] server - Successfully processed dashboard query
+[2019-11-30T01:52:57.650] [INFO] server - Successfully proccessed login query
+[2019-11-30T01:52:57.650] [INFO] server - Successfully login
+[2019-11-30T01:52:57.898] [INFO] server - Successfully processed dashboard query
+[2019-11-30T01:52:57.943] [INFO] server - Successfully processed dashboard query
+[2019-11-30T01:53:00.992] [INFO] server - Successfully processed dashboard query
+[2019-11-30T01:53:01.046] [INFO] server - Successfully processed dashboard query
+[2019-11-30T01:53:04.692] [INFO] server - Successfully processed dashboard query
+[2019-11-30T01:53:04.758] [INFO] server - Successfully processed dashboard query
+[2019-11-30T01:53:06.650] [INFO] server - Successfully processed dashboard query
+[2019-11-30T01:53:06.691] [INFO] server - Successfully processed dashboard query
+[2019-11-30T01:53:09.109] [INFO] server - Successfully processed dashboard query
+[2019-11-30T01:53:09.114] [INFO] server - Successfully processed dashboard query
+[2019-11-30T01:53:09.142] [INFO] server - Successfully processed dashboard query
+[2019-11-30T01:53:09.193] [INFO] server - Successfully processed dashboard query
+[2019-11-30T01:53:55.793] [INFO] server - Successfully processed dashboard query
+[2019-11-30T01:53:55.815] [INFO] server - Successfully processed dashboard query
+[2019-11-30T01:54:51.959] [INFO] server - Successfully proccessed login query
+[2019-11-30T01:54:51.959] [INFO] server - Successfully login
+[2019-11-30T01:54:52.156] [INFO] server - Successfully processed dashboard query
+[2019-11-30T01:54:52.195] [INFO] server - Successfully processed dashboard query
+[2019-11-30T01:55:14.495] [INFO] server - Successfully processed dashboard query
+[2019-11-30T01:55:14.516] [INFO] server - Successfully processed dashboard query
+[2019-11-30T01:55:26.806] [INFO] server - Successfully processed dashboard query
+[2019-11-30T01:55:26.998] [INFO] server - Successfully processed dashboard query
+[2019-11-30T01:56:24.499] [INFO] server - Successfully processed dashboard query
+[2019-11-30T01:56:24.511] [INFO] server - Successfully processed dashboard query
+[2019-11-30T01:57:22.695] [INFO] server - Successfully proccessed login query
+[2019-11-30T01:57:22.696] [DEBUG] server - User not exists.
+[2019-11-30T01:57:36.398] [INFO] server - Successfully registered new user
+[2019-11-30T01:57:44.815] [INFO] server - Successfully proccessed login query
+[2019-11-30T01:57:44.815] [INFO] server - Successfully login
+[2019-11-30T01:57:45.104] [INFO] server - Successfully processed dashboard query
+[2019-11-30T01:57:45.111] [INFO] server - Successfully processed dashboard query
+[2019-11-30T01:57:56.120] [INFO] server - Successfully processed dashboard query
+[2019-11-30T01:57:56.348] [INFO] server - Successfully processed dashboard query
+[2019-11-30T01:58:02.903] [INFO] server - Successfully processed dashboard query
+[2019-11-30T01:58:03.049] [INFO] server - Successfully processed dashboard query
+[2019-11-30T13:01:50.516] [INFO] server - WSMS servier listening on port 4000
+[2019-11-30T13:02:40.882] [INFO] server - Successfully proccessed login query
+[2019-11-30T13:02:40.882] [DEBUG] server - User not exists.
+[2019-11-30T13:03:00.056] [ERROR] server - Failed to register new user
+[2019-11-30T13:03:11.001] [INFO] server - Successfully proccessed login query
+[2019-11-30T13:03:11.001] [DEBUG] server - Passward or permission is not right
+[2019-11-30T13:03:13.700] [INFO] server - Successfully proccessed login query
+[2019-11-30T13:03:13.700] [DEBUG] server - Passward or permission is not right
+[2019-11-30T13:03:29.846] [INFO] server - Successfully registered new user
+[2019-11-30T13:03:38.469] [INFO] server - Successfully proccessed login query
+[2019-11-30T13:03:38.469] [INFO] server - Successfully login
+[2019-11-30T13:03:38.559] [INFO] server - Successfully processed dashboard query
+[2019-11-30T13:03:38.577] [INFO] server - Successfully processed dashboard query
+[2019-11-30T13:03:47.887] [INFO] server - Successfully processed dashboard query
+[2019-11-30T13:03:47.895] [INFO] server - Successfully processed dashboard query
+[2019-11-30T13:03:51.502] [INFO] server - Successfully processed dashboard query
+[2019-11-30T13:03:51.535] [INFO] server - Successfully processed dashboard query
+[2019-11-30T13:16:32.827] [INFO] server - Successfully processed dashboard query
+[2019-11-30T13:16:32.831] [INFO] server - Successfully processed dashboard query
+[2019-11-30T13:19:15.330] [INFO] server - Successfully proccessed login query
+[2019-11-30T13:19:15.332] [INFO] server - Successfully login
+[2019-11-30T13:19:15.433] [INFO] server - Successfully processed dashboard query
+[2019-11-30T13:19:15.451] [INFO] server - Successfully processed dashboard query
+[2019-11-30T13:19:21.633] [INFO] server - Successfully processed dashboard query
+[2019-11-30T13:19:21.646] [INFO] server - Successfully processed dashboard query
+[2019-11-30T13:19:57.599] [INFO] server - Successfully processed dashboard query
+[2019-11-30T13:19:57.603] [INFO] server - Successfully processed dashboard query
+[2019-11-30T13:29:35.755] [INFO] server - Successfully proccessed login query
+[2019-11-30T13:29:35.756] [DEBUG] server - Passward or permission is not right
+[2019-11-30T13:29:45.223] [INFO] server - Successfully proccessed login query
+[2019-11-30T13:29:45.223] [INFO] server - Successfully login
+[2019-11-30T13:29:45.418] [INFO] server - Successfully processed dashboard query
+[2019-11-30T13:29:45.464] [INFO] server - Successfully processed dashboard query
+[2019-11-30T13:29:53.661] [INFO] server - Successfully processed dashboard query
+[2019-11-30T13:29:53.666] [INFO] server - Successfully processed dashboard query
+[2019-11-30T13:29:57.257] [INFO] server - Successfully processed dashboard query
+[2019-11-30T13:29:57.306] [INFO] server - Successfully processed dashboard query
+[2019-11-30T13:29:59.967] [INFO] server - Successfully processed dashboard query
+[2019-11-30T13:30:00.006] [INFO] server - Successfully processed dashboard query
+[2019-11-30T14:48:08.675] [INFO] server - WSMS servier listening on port 4000
+[2019-11-30T14:49:26.944] [INFO] server - Successfully proccessed login query
+[2019-11-30T14:49:26.944] [DEBUG] server - User not exists.
+[2019-11-30T14:49:38.329] [INFO] server - Successfully registered new user
+[2019-11-30T14:49:48.329] [INFO] server - Successfully proccessed login query
+[2019-11-30T14:49:48.329] [INFO] server - Successfully login
+[2019-11-30T14:49:48.397] [INFO] server - Successfully processed dashboard query
+[2019-11-30T14:49:48.429] [INFO] server - Successfully processed dashboard query
+[2019-11-30T16:00:51.738] [ERROR] server - Failed to process search sensor query
+[2019-11-30T16:00:51.738] [TRACE] server - { Error: ER_BAD_FIELD_ERROR: Unknown column 'S1' in 'where clause'
+    at Query.Sequence._packetToError (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/mysql/lib/protocol/sequences/Query.js:77:18)
+    at Protocol._parsePacket (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/mysql/lib/Connection.js:91:28)
+    at Socket.<anonymous> (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/mysql/lib/Connection.js:525:10)
+    at Socket.emit (events.js:197:13)
+    at addChunk (_stream_readable.js:288:12)
+    --------------------
+    at Protocol._enqueue (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/mysql/lib/protocol/Protocol.js:144:48)
+    at Connection.query (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/mysql/lib/Connection.js:201:25)
+    at app.get (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/index.js:235:16)
+    at Layer.handle [as handle_request] (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/express/lib/router/layer.js:95:5)
+    at next (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/express/lib/router/layer.js:95:5)
+    at /Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/express/lib/router/index.js:335:12)
+    at next (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/express/lib/router/index.js:275:10)
+  code: 'ER_BAD_FIELD_ERROR',
+  errno: 1054,
+  sqlMessage: "Unknown column 'S1' in 'where clause'",
+  sqlState: '42S22',
+  index: 0,
+  sql:
+   'SELECT * FROM sensor WHERE sensor_id = S1;SELECT DISTINCT sensor_id FROM sensor WHERE sensor.sensor_station_id = "1";SELECT sensor_reading FROM sensor_data WHERE sensor_id = S1 ORDER BY timestamp DESC LIMIT 2;SELECT timestamp AS timestamp, sensor_reading FROM sensor_data WHERE timestamp >= DATE(NOW()) - INTERVAL 1 WEEK + INTERVAL 0 SECOND AND sensor_id=S1;SELECT TIME(timestamp) AS timestamp, sensor_reading FROM sensor_data WHERE timestamp >= DATE(NOW()) - INTERVAL 1 DAY + INTERVAL 0 SECOND AND sensor_id=S1;' }
+[2019-11-30T16:00:51.742] [ERROR] server - null
+[2019-11-30T16:03:06.800] [INFO] server - WSMS servier listening on port 4000
+[2019-11-30T16:03:16.544] [ERROR] server - Failed to process search sensor query
+[2019-11-30T16:03:16.545] [TRACE] server - { Error: ER_BAD_FIELD_ERROR: Unknown column '‘S1’' in 'where clause'
+    at Query.Sequence._packetToError (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/mysql/lib/protocol/sequences/Query.js:77:18)
+    at Protocol._parsePacket (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/mysql/lib/Connection.js:91:28)
+    at Socket.<anonymous> (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/mysql/lib/Connection.js:525:10)
+    at Socket.emit (events.js:197:13)
+    at addChunk (_stream_readable.js:288:12)
+    --------------------
+    at Protocol._enqueue (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/mysql/lib/protocol/Protocol.js:144:48)
+    at Connection.query (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/mysql/lib/Connection.js:201:25)
+    at app.get (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/index.js:235:16)
+    at Layer.handle [as handle_request] (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/express/lib/router/layer.js:95:5)
+    at next (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/express/lib/router/layer.js:95:5)
+    at /Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/express/lib/router/index.js:335:12)
+    at next (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/express/lib/router/index.js:275:10)
+  code: 'ER_BAD_FIELD_ERROR',
+  errno: 1054,
+  sqlMessage: "Unknown column '‘S1’' in 'where clause'",
+  sqlState: '42S22',
+  index: 0,
+  sql:
+   'SELECT * FROM sensor WHERE sensor_id = ‘S1’;SELECT DISTINCT sensor_id FROM sensor WHERE sensor.sensor_station_id = ‘1’;SELECT sensor_reading FROM sensor_data WHERE sensor_id = ‘S1 ’ORDER BY timestamp DESC LIMIT 2;SELECT timestamp AS timestamp, sensor_reading FROM sensor_data WHERE timestamp >= DATE(NOW()) - INTERVAL 1 WEEK + INTERVAL 0 SECOND AND sensor_id=‘S1’;SELECT TIME(timestamp) AS timestamp, sensor_reading FROM sensor_data WHERE timestamp >= DATE(NOW()) - INTERVAL 1 DAY + INTERVAL 0 SECOND AND sensor_id=’S1‘;' }
+[2019-11-30T16:03:16.741] [INFO] server - User log transaction is sccuess
+[2019-11-30T16:06:07.036] [INFO] server - WSMS servier listening on port 4000
+[2019-11-30T16:06:21.201] [ERROR] server - Failed to process search sensor query
+[2019-11-30T16:06:21.201] [TRACE] server - { Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'S1' ORDER BY timestamp DESC LIMIT 2;SELECT timestamp AS timestamp, sensor_readin' at line 1
+    at Query.Sequence._packetToError (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/mysql/lib/protocol/sequences/Query.js:77:18)
+    at Protocol._parsePacket (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/mysql/lib/Connection.js:91:28)
+    at Socket.<anonymous> (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/mysql/lib/Connection.js:525:10)
+    at Socket.emit (events.js:197:13)
+    at addChunk (_stream_readable.js:288:12)
+    --------------------
+    at Protocol._enqueue (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/mysql/lib/protocol/Protocol.js:144:48)
+    at Connection.query (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/mysql/lib/Connection.js:201:25)
+    at app.get (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/index.js:235:16)
+    at Layer.handle [as handle_request] (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/express/lib/router/layer.js:95:5)
+    at next (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/express/lib/router/layer.js:95:5)
+    at /Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/express/lib/router/index.js:335:12)
+    at next (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/express/lib/router/index.js:275:10)
+  code: 'ER_PARSE_ERROR',
+  errno: 1064,
+  sqlMessage:
+   "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'S1' ORDER BY timestamp DESC LIMIT 2;SELECT timestamp AS timestamp, sensor_readin' at line 1",
+  sqlState: '42000',
+  index: 0,
+  sql:
+   "SELECT * FROM sensor WHERE sensor_id = 'S1’;SELECT DISTINCT sensor_id FROM sensor WHERE sensor.sensor_station_id = ‘1’;SELECT sensor_reading FROM sensor_data WHERE sensor_id = 'S1' ORDER BY timestamp DESC LIMIT 2;SELECT timestamp AS timestamp, sensor_reading FROM sensor_data WHERE timestamp >= DATE(NOW()) - INTERVAL 1 WEEK + INTERVAL 0 SECOND AND sensor_id=‘S1’;SELECT TIME(timestamp) AS timestamp, sensor_reading FROM sensor_data WHERE timestamp >= DATE(NOW()) - INTERVAL 1 DAY + INTERVAL 0 SECOND AND sensor_id=’S1‘;" }
+[2019-11-30T16:06:21.301] [INFO] server - User log transaction is sccuess
+[2019-11-30T16:07:13.569] [INFO] server - WSMS servier listening on port 4000
+[2019-11-30T16:07:26.449] [ERROR] server - Failed to process search sensor query
+[2019-11-30T16:07:26.449] [TRACE] server - { Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'S1' ORDER BY timestamp DESC LIMIT 2;SELECT timestamp AS timestamp, sensor_readin' at line 1
+    at Query.Sequence._packetToError (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/mysql/lib/protocol/sequences/Query.js:77:18)
+    at Protocol._parsePacket (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/mysql/lib/Connection.js:91:28)
+    at Socket.<anonymous> (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/mysql/lib/Connection.js:525:10)
+    at Socket.emit (events.js:197:13)
+    at addChunk (_stream_readable.js:288:12)
+    --------------------
+    at Protocol._enqueue (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/mysql/lib/protocol/Protocol.js:144:48)
+    at Connection.query (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/mysql/lib/Connection.js:201:25)
+    at app.get (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/index.js:235:16)
+    at Layer.handle [as handle_request] (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/express/lib/router/layer.js:95:5)
+    at next (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/express/lib/router/layer.js:95:5)
+    at /Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/express/lib/router/index.js:335:12)
+    at next (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/express/lib/router/index.js:275:10)
+  code: 'ER_PARSE_ERROR',
+  errno: 1064,
+  sqlMessage:
+   "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'S1' ORDER BY timestamp DESC LIMIT 2;SELECT timestamp AS timestamp, sensor_readin' at line 1",
+  sqlState: '42000',
+  index: 0,
+  sql:
+   "SELECT * FROM sensor WHERE sensor_id = 'S1’;SELECT DISTINCT sensor_id FROM sensor WHERE sensor.sensor_station_id = ‘1’;SELECT sensor_reading FROM sensor_data WHERE sensor_id = 'S1' ORDER BY timestamp DESC LIMIT 2;SELECT timestamp AS timestamp, sensor_reading FROM sensor_data WHERE timestamp >= DATE(NOW()) - INTERVAL 1 WEEK + INTERVAL 0 SECOND AND sensor_id=‘S1’;SELECT TIME(timestamp) AS timestamp, sensor_reading FROM sensor_data WHERE timestamp >= DATE(NOW()) - INTERVAL 1 DAY + INTERVAL 0 SECOND AND sensor_id=’S1‘;" }
+[2019-11-30T16:07:26.466] [INFO] server - User log transaction is sccuess
+[2019-11-30T16:08:36.449] [ERROR] server - Failed to process search sensor query
+[2019-11-30T16:08:36.449] [TRACE] server - { Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'S1' ORDER BY timestamp DESC LIMIT 2;SELECT timestamp AS timestamp, sensor_readin' at line 1
+    at Query.Sequence._packetToError (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/mysql/lib/protocol/sequences/Query.js:77:18)
+    at Protocol._parsePacket (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/mysql/lib/Connection.js:91:28)
+    at Socket.<anonymous> (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/mysql/lib/Connection.js:525:10)
+    at Socket.emit (events.js:197:13)
+    at addChunk (_stream_readable.js:288:12)
+    --------------------
+    at Protocol._enqueue (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/mysql/lib/protocol/Protocol.js:144:48)
+    at Connection.query (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/mysql/lib/Connection.js:201:25)
+    at app.get (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/index.js:235:16)
+    at Layer.handle [as handle_request] (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/express/lib/router/layer.js:95:5)
+    at next (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/express/lib/router/layer.js:95:5)
+    at /Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/express/lib/router/index.js:335:12)
+    at next (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/express/lib/router/index.js:275:10)
+  code: 'ER_PARSE_ERROR',
+  errno: 1064,
+  sqlMessage:
+   "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'S1' ORDER BY timestamp DESC LIMIT 2;SELECT timestamp AS timestamp, sensor_readin' at line 1",
+  sqlState: '42000',
+  index: 0,
+  sql:
+   "SELECT * FROM sensor WHERE sensor_id = 'S1’;SELECT DISTINCT sensor_id FROM sensor WHERE sensor.sensor_station_id = ‘1’;SELECT sensor_reading FROM sensor_data WHERE sensor_id = 'S1' ORDER BY timestamp DESC LIMIT 2;SELECT timestamp AS timestamp, sensor_reading FROM sensor_data WHERE timestamp >= DATE(NOW()) - INTERVAL 1 WEEK + INTERVAL 0 SECOND AND sensor_id=‘S1’;SELECT TIME(timestamp) AS timestamp, sensor_reading FROM sensor_data WHERE timestamp >= DATE(NOW()) - INTERVAL 1 DAY + INTERVAL 0 SECOND AND sensor_id=’S1‘;" }
+[2019-11-30T16:08:36.469] [INFO] server - User log transaction is sccuess
+[2019-11-30T16:09:18.251] [ERROR] server - Failed to process search sensor query
+[2019-11-30T16:09:18.251] [TRACE] server - { Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '1' ORDER BY timestamp DESC LIMIT 2;SELECT timestamp AS timestamp, sensor_reading' at line 1
+    at Query.Sequence._packetToError (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/mysql/lib/protocol/sequences/Query.js:77:18)
+    at Protocol._parsePacket (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/mysql/lib/Connection.js:91:28)
+    at Socket.<anonymous> (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/mysql/lib/Connection.js:525:10)
+    at Socket.emit (events.js:197:13)
+    at addChunk (_stream_readable.js:288:12)
+    --------------------
+    at Protocol._enqueue (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/mysql/lib/protocol/Protocol.js:144:48)
+    at Connection.query (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/mysql/lib/Connection.js:201:25)
+    at app.get (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/index.js:235:16)
+    at Layer.handle [as handle_request] (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/express/lib/router/layer.js:95:5)
+    at next (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/express/lib/router/layer.js:95:5)
+    at /Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/express/lib/router/index.js:335:12)
+    at next (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/express/lib/router/index.js:275:10)
+  code: 'ER_PARSE_ERROR',
+  errno: 1064,
+  sqlMessage:
+   "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '1' ORDER BY timestamp DESC LIMIT 2;SELECT timestamp AS timestamp, sensor_reading' at line 1",
+  sqlState: '42000',
+  index: 0,
+  sql:
+   "SELECT * FROM sensor WHERE sensor_id = '1’;SELECT DISTINCT sensor_id FROM sensor WHERE sensor.sensor_station_id = ‘1’;SELECT sensor_reading FROM sensor_data WHERE sensor_id = '1' ORDER BY timestamp DESC LIMIT 2;SELECT timestamp AS timestamp, sensor_reading FROM sensor_data WHERE timestamp >= DATE(NOW()) - INTERVAL 1 WEEK + INTERVAL 0 SECOND AND sensor_id=‘1’;SELECT TIME(timestamp) AS timestamp, sensor_reading FROM sensor_data WHERE timestamp >= DATE(NOW()) - INTERVAL 1 DAY + INTERVAL 0 SECOND AND sensor_id=’1‘;" }
+[2019-11-30T16:09:18.268] [INFO] server - User log transaction is sccuess
+[2019-11-30T16:09:45.642] [INFO] server - WSMS servier listening on port 4000
+[2019-11-30T16:26:37.050] [INFO] server - WSMS servier listening on port 4000
+[2019-11-30T16:26:43.841] [INFO] server - Successfully processed search sensor query
+[2019-11-30T16:26:43.859] [INFO] server - User log transaction is sccuess
+[2019-11-30T16:28:43.771] [INFO] server - Successfully processed search sensor query
+[2019-11-30T16:28:43.774] [INFO] server - User log transaction is sccuess
+[2019-11-30T16:32:54.465] [INFO] server - WSMS servier listening on port 4000
+[2019-11-30T16:32:59.227] [INFO] server - Successfully processed search sensor query
+[2019-11-30T16:32:59.323] [INFO] server - User log transaction is sccuess
+[2019-11-30T16:33:16.454] [ERROR] server - Failed to process search sensor query
+[2019-11-30T16:33:16.455] [TRACE] server - { Error: ER_BAD_FIELD_ERROR: Unknown column 'S1' in 'where clause'
+    at Query.Sequence._packetToError (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/mysql/lib/protocol/sequences/Query.js:77:18)
+    at Protocol._parsePacket (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/mysql/lib/Connection.js:91:28)
+    at Socket.<anonymous> (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/mysql/lib/Connection.js:525:10)
+    at Socket.emit (events.js:197:13)
+    at addChunk (_stream_readable.js:288:12)
+    --------------------
+    at Protocol._enqueue (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/mysql/lib/protocol/Protocol.js:144:48)
+    at Connection.query (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/mysql/lib/Connection.js:201:25)
+    at app.get (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/index.js:240:16)
+    at Layer.handle [as handle_request] (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/express/lib/router/layer.js:95:5)
+    at next (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/express/lib/router/layer.js:95:5)
+    at /Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/express/lib/router/index.js:335:12)
+    at next (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/express/lib/router/index.js:275:10)
+  code: 'ER_BAD_FIELD_ERROR',
+  errno: 1054,
+  sqlMessage: "Unknown column 'S1' in 'where clause'",
+  sqlState: '42S22',
+  index: 0,
+  sql:
+   'SELECT * FROM sensor WHERE sensor_id = S1;SELECT DISTINCT sensor_id FROM sensor WHERE sensor.sensor_station_id = 1;SELECT sensor_reading FROM sensor_data WHERE sensor_id = S1 ORDER BY timestamp DESC LIMIT 2;SELECT timestamp AS timestamp, sensor_reading FROM sensor_data WHERE timestamp >= DATE(NOW()) - INTERVAL 1 WEEK + INTERVAL 0 SECOND AND sensor_id=S1;SELECT TIME(timestamp) AS timestamp, sensor_reading FROM sensor_data WHERE timestamp >= DATE(NOW()) - INTERVAL 1 DAY + INTERVAL 0 SECOND AND sensor_id=S1;' }
+[2019-11-30T16:33:16.535] [INFO] server - User log transaction is sccuess
+[2019-11-30T16:34:52.086] [INFO] server - WSMS servier listening on port 4000
+[2019-11-30T16:34:55.694] [INFO] server - Successfully processed search sensor query
+[2019-11-30T16:34:55.723] [ERROR] server - null
+[2019-11-30T16:36:59.888] [INFO] server - WSMS servier listening on port 4000
+[2019-11-30T16:37:03.123] [INFO] server - Successfully processed search sensor query
+[2019-11-30T16:37:03.135] [ERROR] server - null
+[2019-11-30T16:42:35.290] [INFO] server - WSMS servier listening on port 4000
+[2019-11-30T16:42:39.810] [INFO] server - Successfully processed search sensor query
+[2019-11-30T16:42:39.838] [ERROR] server - null
+[2019-11-30T17:00:45.234] [INFO] server - WSMS servier listening on port 4000
+[2019-11-30T17:00:50.307] [INFO] server - Successfully processed search sensor query
+[2019-11-30T17:00:50.330] [ERROR] server - null
+[2019-11-30T17:07:10.413] [INFO] server - WSMS servier listening on port 4000
+[2019-11-30T17:07:14.352] [INFO] server - Successfully processed search sensor query
+[2019-11-30T17:07:14.366] [ERROR] server - null
+[2019-11-30T17:15:12.816] [INFO] server - WSMS servier listening on port 4000
+[2019-11-30T17:15:21.868] [INFO] server - Successfully processed search sensor query
+[2019-11-30T17:15:21.941] [ERROR] server - null
+[2019-11-30T17:16:12.729] [INFO] server - WSMS servier listening on port 4000
+[2019-11-30T17:16:17.359] [INFO] server - Successfully processed search sensor query
+[2019-11-30T17:16:17.366] [ERROR] server - null
+[2019-11-30T17:17:24.950] [INFO] server - WSMS servier listening on port 4000
+[2019-11-30T17:17:27.145] [INFO] server - Successfully processed search sensor query
+[2019-11-30T17:17:27.158] [ERROR] server - null
+[2019-11-30T17:18:12.121] [INFO] server - WSMS servier listening on port 4000
+[2019-11-30T17:18:15.700] [INFO] server - Successfully processed search sensor query
+[2019-11-30T17:18:54.330] [INFO] server - WSMS servier listening on port 4000
+[2019-11-30T17:18:55.752] [INFO] server - Successfully processed search sensor query
+[2019-11-30T17:19:16.851] [INFO] server - WSMS servier listening on port 4000
+[2019-11-30T17:19:19.318] [INFO] server - Successfully processed search sensor query
+[2019-11-30T17:20:04.847] [INFO] server - WSMS servier listening on port 4000
+[2019-11-30T17:20:17.908] [INFO] server - WSMS servier listening on port 4000
+[2019-11-30T17:20:20.021] [INFO] server - Successfully processed search sensor query
+[2019-11-30T17:20:40.059] [INFO] server - Successfully processed search sensor query
+[2019-11-30T17:21:13.265] [INFO] server - WSMS servier listening on port 4000
+[2019-11-30T17:21:15.360] [INFO] server - Successfully processed search sensor query
+[2019-11-30T17:21:41.280] [INFO] server - WSMS servier listening on port 4000
+[2019-11-30T17:21:42.957] [INFO] server - Successfully processed search sensor query
+[2019-11-30T17:21:42.967] [ERROR] server - null
+[2019-11-30T17:22:55.928] [INFO] server - WSMS servier listening on port 4000
+[2019-11-30T17:23:00.675] [INFO] server - Successfully processed search sensor query
+[2019-11-30T17:23:00.708] [INFO] server - User log transaction is sccuess
+[2019-11-30T17:23:12.724] [INFO] server - WSMS servier listening on port 4000
+[2019-11-30T17:23:34.900] [INFO] server - WSMS servier listening on port 4000
+[2019-11-30T17:23:37.658] [INFO] server - Successfully processed search sensor query
+[2019-11-30T17:23:37.712] [INFO] server - User log transaction is sccuess
+[2019-11-30T17:33:28.023] [INFO] server - WSMS servier listening on port 4000
+[2019-11-30T17:33:37.825] [INFO] server - Successfully processed search sensor query
+[2019-11-30T17:33:37.874] [INFO] server - User log transaction is sccuess
+[2019-11-30T17:37:49.103] [INFO] server - WSMS servier listening on port 4000
+[2019-11-30T17:37:51.447] [INFO] server - Successfully processed search sensor query
+[2019-11-30T17:37:51.495] [INFO] server - User log transaction is sccuess
+[2019-11-30T17:39:02.101] [INFO] server - WSMS servier listening on port 4000
+[2019-11-30T17:39:06.693] [INFO] server - Successfully processed search sensor query
+[2019-11-30T17:39:06.756] [INFO] server - User log transaction is sccuess
+[2019-11-30T17:39:25.325] [INFO] server - Successfully processed search sensor query
+[2019-11-30T17:39:25.403] [INFO] server - User log transaction is sccuess
+[2019-11-30T17:44:05.425] [INFO] server - Successfully processed search sensor query
+[2019-11-30T17:44:05.481] [INFO] server - User log transaction is sccuess
+[2019-11-30T21:58:19.241] [INFO] server - Successfully processed search sensor query
+[2019-11-30T21:58:19.280] [INFO] server - User log transaction is sccuess
+[2019-11-30T22:03:09.883] [INFO] server - Successfully added new sensor
+[2019-11-30T22:03:09.925] [INFO] server - User log transaction is sccuess
+[2019-11-30T22:03:20.711] [INFO] server - Successfully processed search sensor query
+[2019-11-30T22:03:20.724] [INFO] server - User log transaction is sccuess
+[2019-11-30T22:06:27.377] [INFO] server - Successfully processed search sensor query
+[2019-11-30T22:06:27.407] [INFO] server - User log transaction is sccuess
+[2019-11-30T22:11:41.328] [INFO] server - Successfully processed search sensor query
+[2019-11-30T22:11:41.373] [INFO] server - User log transaction is sccuess
+[2019-11-30T22:14:31.138] [INFO] server - Successfully processed search sensor query
+[2019-11-30T22:14:31.177] [INFO] server - User log transaction is sccuess
+[2019-11-30T22:15:19.569] [INFO] server - Successfully processed search sensor query
+[2019-11-30T22:15:19.615] [INFO] server - User log transaction is sccuess
+[2019-11-30T22:16:27.889] [INFO] server - Successfully processed search sensor query
+[2019-11-30T22:16:27.946] [INFO] server - User log transaction is sccuess
+[2019-11-30T22:18:27.130] [INFO] server - Successfully processed search sensor query
+[2019-11-30T22:18:27.190] [INFO] server - User log transaction is sccuess
+[2019-11-30T22:19:02.984] [INFO] server - Successfully processed search sensor query
+[2019-11-30T22:19:03.046] [INFO] server - User log transaction is sccuess
+[2019-11-30T22:19:29.164] [INFO] server - Successfully processed dashboard query
+[2019-11-30T22:19:29.173] [INFO] server - Successfully processed dashboard query
+[2019-11-30T22:20:42.330] [INFO] server - Successfully processed dashboard query
+[2019-11-30T22:20:42.362] [INFO] server - Successfully processed dashboard query
+[2019-11-30T22:40:26.450] [INFO] server - WSMS servier listening on port 4000
+[2019-11-30T22:42:07.610] [INFO] server - Successfully processed dashboard query
+[2019-11-30T22:47:52.754] [INFO] server - WSMS servier listening on port 4000
+[2019-11-30T22:47:58.838] [INFO] server - Successfully processed dashboard query
+[2019-11-30T22:48:33.060] [INFO] server - Successfully processed dashboard query
+[2019-11-30T22:48:54.199] [INFO] server - Successfully processed dashboard query
+[2019-12-01T00:05:42.566] [INFO] server - WSMS servier listening on port 4000
+[2019-12-01T00:06:41.893] [INFO] server - WSMS servier listening on port 4000
+[2019-12-01T00:20:12.810] [INFO] server - WSMS servier listening on port 4000
+[2019-12-01T00:22:21.883] [INFO] server - WSMS servier listening on port 4000
+[2019-12-01T00:23:23.572] [INFO] server - WSMS servier listening on port 4000
+[2019-12-01T00:23:29.989] [INFO] server - Successfully processed dashboard query
+[2019-12-01T00:24:55.309] [INFO] server - WSMS servier listening on port 4000
+[2019-12-01T00:25:01.091] [INFO] server - Successfully processed dashboard query
+[2019-12-01T00:25:03.276] [INFO] server - Successfully processed dashboard query
+[2019-12-01T00:25:04.468] [INFO] server - Successfully processed dashboard query
+[2019-12-01T00:26:12.171] [INFO] server - WSMS servier listening on port 4000
+[2019-12-01T00:26:17.622] [INFO] server - Successfully processed dashboard query
+[2019-12-01T00:31:45.339] [INFO] server - Successfully processed dashboard query
+[2019-12-01T00:31:45.383] [INFO] server - Successfully processed dashboard query
+[2019-12-01T00:33:31.986] [INFO] server - Successfully processed dashboard query
+[2019-12-01T00:33:38.780] [INFO] server - Successfully processed dashboard query
+[2019-12-01T00:33:38.830] [INFO] server - Successfully processed dashboard query
+[2019-12-01T00:36:33.987] [INFO] server - WSMS servier listening on port 4000
+[2019-12-01T00:36:41.118] [INFO] server - Successfully processed dashboard query
+[2019-12-01T00:38:58.314] [INFO] server - WSMS servier listening on port 4000
+[2019-12-01T00:39:04.214] [INFO] server - Successfully registered new user
+[2019-12-01T00:39:15.497] [INFO] server - Successfully proccessed login query
+[2019-12-01T00:39:15.497] [INFO] server - Successfully login
+[2019-12-01T00:39:15.819] [INFO] server - Successfully processed dashboard query
+[2019-12-01T00:39:15.834] [INFO] server - Successfully processed dashboard query
+[2019-12-01T00:39:20.942] [INFO] server - Successfully processed dashboard query
+[2019-12-01T00:39:20.989] [INFO] server - Successfully processed dashboard query
+[2019-12-01T00:42:05.137] [INFO] server - WSMS servier listening on port 4000
+[2019-12-01T00:42:37.203] [INFO] server - Successfully processed search sensor query
+[2019-12-01T00:42:37.381] [INFO] server - User log transaction is sccuess
+[2019-12-01T00:42:47.126] [INFO] server - Successfully processed search sensor query
+[2019-12-01T00:42:47.228] [INFO] server - User log transaction is sccuess
+[2019-12-01T00:42:56.949] [INFO] server - Successfully processed dashboard query
+[2019-12-01T00:42:56.999] [INFO] server - Successfully processed dashboard query
+[2019-12-01T00:45:02.322] [INFO] server - Successfully registered new user
+[2019-12-01T00:45:23.703] [INFO] server - Successfully registered new user
+[2019-12-01T00:47:16.747] [INFO] server - Successfully proccessed login query
+[2019-12-01T00:47:16.747] [DEBUG] server - Passward or permission is not right
+[2019-12-01T00:47:18.600] [INFO] server - Successfully proccessed login query
+[2019-12-01T00:47:18.600] [INFO] server - Successfully login
+[2019-12-01T00:47:18.739] [INFO] server - Successfully processed dashboard query
+[2019-12-01T00:47:18.757] [INFO] server - Successfully processed dashboard query
+[2019-12-01T00:47:26.902] [INFO] server - Successfully processed search sensor query
+[2019-12-01T00:47:26.939] [INFO] server - Admin log transaction is sccuess
+[2019-12-01T00:47:33.652] [INFO] server - Successfully processed dashboard query
+[2019-12-01T00:47:33.677] [INFO] server - Successfully processed dashboard query
+[2019-12-01T00:47:47.844] [INFO] server - Successfully proccessed login query
+[2019-12-01T00:47:47.844] [INFO] server - Successfully login
+[2019-12-01T00:47:47.923] [INFO] server - Successfully processed dashboard query
+[2019-12-01T00:47:47.953] [INFO] server - Successfully processed dashboard query
+[2019-12-01T00:48:04.142] [INFO] server - Successfully processed search sensor query
+[2019-12-01T00:48:04.225] [ERROR] server - null
+[2019-12-01T01:10:08.244] [INFO] server - WSMS servier listening on port 4000
+[2019-12-01T01:10:28.241] [INFO] server - Successfully proccessed login query
+[2019-12-01T01:10:28.242] [INFO] server - Successfully login
+[2019-12-01T01:10:28.440] [INFO] server - Successfully processed dashboard query
+[2019-12-01T01:10:28.486] [INFO] server - Successfully processed dashboard query
+[2019-12-01T01:13:46.712] [INFO] server - Successfully proccessed login query
+[2019-12-01T01:13:46.712] [INFO] server - Successfully login
+[2019-12-01T01:13:46.794] [INFO] server - Successfully processed dashboard query
+[2019-12-01T01:13:46.821] [INFO] server - Successfully processed dashboard query
+[2019-12-01T01:16:34.700] [INFO] server - Successfully processed search sensor query
+[2019-12-01T01:16:34.804] [ERROR] server - null
+[2019-12-01T15:57:38.273] [INFO] server - WSMS servier listening on port 4000
+[2019-12-01T15:58:07.746] [INFO] server - Successfully proccessed login query
+[2019-12-01T15:58:07.746] [DEBUG] server - User not exists.
+[2019-12-01T15:58:22.213] [INFO] server - Successfully registered new user
+[2019-12-01T15:58:34.263] [INFO] server - Successfully proccessed login query
+[2019-12-01T15:58:34.264] [INFO] server - Successfully login
+[2019-12-01T15:58:34.566] [INFO] server - Successfully processed dashboard query
+[2019-12-01T15:58:34.599] [INFO] server - Successfully processed dashboard query
+[2019-12-01T15:58:42.696] [INFO] server - Successfully processed dashboard query
+[2019-12-01T15:58:42.798] [INFO] server - Successfully processed dashboard query
+[2019-12-01T15:59:45.065] [INFO] server - Successfully processed dashboard query
+[2019-12-01T15:59:45.160] [INFO] server - Successfully processed dashboard query
+[2019-12-01T16:03:13.095] [INFO] server - WSMS servier listening on port 4000
+[2019-12-01T16:03:25.825] [INFO] server - WSMS servier listening on port 4000
+[2019-12-01T16:03:33.607] [INFO] server - Successfully processed search sensor query
+[2019-12-01T16:03:33.772] [INFO] server - User log transaction is sccuess
+[2019-12-01T16:17:11.656] [INFO] server - WSMS servier listening on port 4000
+[2019-12-01T16:18:47.275] [INFO] server - WSMS servier listening on port 4000
+[2019-12-01T16:20:09.590] [INFO] server - WSMS servier listening on port 4000
+[2019-12-01T16:20:38.945] [ERROR] server - Failed to process search sensor query
+[2019-12-01T16:20:38.945] [TRACE] server - { Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''1' at line 1
+    at Query.Sequence._packetToError (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/mysql/lib/protocol/sequences/Query.js:77:18)
+    at Protocol._parsePacket (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/mysql/lib/Connection.js:91:28)
+    at Socket.<anonymous> (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/mysql/lib/Connection.js:525:10)
+    at Socket.emit (events.js:197:13)
+    at addChunk (_stream_readable.js:288:12)
+    --------------------
+    at Protocol._enqueue (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/mysql/lib/protocol/Protocol.js:144:48)
+    at Connection.query (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/mysql/lib/Connection.js:201:25)
+    at app.get (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/index.js:250:16)
+    at Layer.handle [as handle_request] (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/express/lib/router/layer.js:95:5)
+    at next (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/express/lib/router/layer.js:95:5)
+    at /Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/express/lib/router/index.js:335:12)
+    at next (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/express/lib/router/index.js:275:10)
+  code: 'ER_PARSE_ERROR',
+  errno: 1064,
+  sqlMessage:
+   "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''1' at line 1",
+  sqlState: '42000',
+  index: 5,
+  sql:
+   "SELECT * FROM sensor WHERE sensor_id = 'S1';SELECT DISTINCT sensor_id FROM sensor WHERE sensor.sensor_station_id = '1';SELECT sensor_reading FROM sensor_data WHERE sensor_id = 'S1' ORDER BY timestamp DESC LIMIT 2;SELECT timestamp AS timestamp, sensor_reading FROM sensor_data WHERE timestamp >= DATE(NOW()) - INTERVAL 1 WEEK + INTERVAL 0 SECOND AND sensor_id='S1';SELECT TIME(timestamp) AS timestamp, sensor_reading FROM sensor_data WHERE DATE(timestamp) = DATE(NOW()) AND sensor_id='S1';SELECT * FROM sensor_station WHERE sensor_station_id = '1;" }
+[2019-12-01T16:20:38.974] [INFO] server - User log transaction is sccuess
+[2019-12-01T16:22:33.825] [INFO] server - WSMS servier listening on port 4000
+[2019-12-01T16:22:35.877] [ERROR] server - Failed to process search sensor query
+[2019-12-01T16:22:35.878] [TRACE] server - { Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''1' at line 1
+    at Query.Sequence._packetToError (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/mysql/lib/protocol/sequences/Query.js:77:18)
+    at Protocol._parsePacket (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/mysql/lib/Connection.js:91:28)
+    at Socket.<anonymous> (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/mysql/lib/Connection.js:525:10)
+    at Socket.emit (events.js:197:13)
+    at addChunk (_stream_readable.js:288:12)
+    --------------------
+    at Protocol._enqueue (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/mysql/lib/protocol/Protocol.js:144:48)
+    at Connection.query (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/mysql/lib/Connection.js:201:25)
+    at app.get (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/index.js:250:16)
+    at Layer.handle [as handle_request] (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/express/lib/router/layer.js:95:5)
+    at next (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/express/lib/router/layer.js:95:5)
+    at /Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/express/lib/router/index.js:335:12)
+    at next (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/express/lib/router/index.js:275:10)
+  code: 'ER_PARSE_ERROR',
+  errno: 1064,
+  sqlMessage:
+   "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''1' at line 1",
+  sqlState: '42000',
+  index: 5,
+  sql:
+   "SELECT * FROM sensor WHERE sensor_id = 'S1';SELECT DISTINCT sensor_id FROM sensor WHERE sensor.sensor_station_id = '1';SELECT sensor_reading FROM sensor_data WHERE sensor_id = 'S1' ORDER BY timestamp DESC LIMIT 2;SELECT timestamp AS timestamp, sensor_reading FROM sensor_data WHERE timestamp >= DATE(NOW()) - INTERVAL 1 WEEK + INTERVAL 0 SECOND AND sensor_id='S1';SELECT TIME(timestamp) AS timestamp, sensor_reading FROM sensor_data WHERE DATE(timestamp) = DATE(NOW()) AND sensor_id='S1';SELECT * FROM sensor_station WHERE sensor_station_id = '1;" }
+[2019-12-01T16:22:36.982] [ERROR] server - Failed to process search sensor query
+[2019-12-01T16:22:36.983] [TRACE] server - { Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''1' at line 1
+    at Query.Sequence._packetToError (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/mysql/lib/protocol/sequences/Query.js:77:18)
+    at Protocol._parsePacket (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/mysql/lib/Connection.js:91:28)
+    at Socket.<anonymous> (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/mysql/lib/Connection.js:525:10)
+    at Socket.emit (events.js:197:13)
+    at addChunk (_stream_readable.js:288:12)
+    --------------------
+    at Protocol._enqueue (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/mysql/lib/protocol/Protocol.js:144:48)
+    at Connection.query (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/mysql/lib/Connection.js:201:25)
+    at app.get (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/index.js:250:16)
+    at Layer.handle [as handle_request] (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/express/lib/router/layer.js:95:5)
+    at next (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/express/lib/router/layer.js:95:5)
+    at /Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/express/lib/router/index.js:335:12)
+    at next (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/express/lib/router/index.js:275:10)
+  code: 'ER_PARSE_ERROR',
+  errno: 1064,
+  sqlMessage:
+   "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''1' at line 1",
+  sqlState: '42000',
+  index: 5,
+  sql:
+   "SELECT * FROM sensor WHERE sensor_id = 'S1';SELECT DISTINCT sensor_id FROM sensor WHERE sensor.sensor_station_id = '1';SELECT sensor_reading FROM sensor_data WHERE sensor_id = 'S1' ORDER BY timestamp DESC LIMIT 2;SELECT timestamp AS timestamp, sensor_reading FROM sensor_data WHERE timestamp >= DATE(NOW()) - INTERVAL 1 WEEK + INTERVAL 0 SECOND AND sensor_id='S1';SELECT TIME(timestamp) AS timestamp, sensor_reading FROM sensor_data WHERE DATE(timestamp) = DATE(NOW()) AND sensor_id='S1';SELECT * FROM sensor_station WHERE sensor_station_id = '1;" }
+[2019-12-01T16:23:14.501] [INFO] server - WSMS servier listening on port 4000
+[2019-12-01T16:23:16.552] [INFO] server - Successfully processed search sensor query
+[2019-12-01T16:23:16.631] [INFO] server - User log transaction is sccuess
+[2019-12-01T16:24:24.639] [INFO] server - WSMS servier listening on port 4000
+[2019-12-01T16:24:27.590] [INFO] server - Successfully processed search sensor query
+[2019-12-01T16:24:27.737] [INFO] server - User log transaction is sccuess
+[2019-12-01T16:26:34.531] [INFO] server - Successfully processed search sensor query
+[2019-12-01T16:26:34.597] [INFO] server - User log transaction is sccuess
+[2019-12-01T16:28:33.561] [INFO] server - Successfully processed search sensor query
+[2019-12-01T16:28:33.625] [INFO] server - User log transaction is sccuess
+[2019-12-01T17:13:11.116] [INFO] server - WSMS servier listening on port 4000
+[2019-12-01T17:13:26.419] [INFO] server - Successfully proccessed login query
+[2019-12-01T17:13:26.420] [INFO] server - Successfully login
+[2019-12-01T17:13:26.530] [INFO] server - Successfully processed dashboard query
+[2019-12-01T17:13:26.567] [INFO] server - Successfully processed dashboard query
+[2019-12-01T17:26:04.294] [INFO] server - WSMS servier listening on port 4000
+[2019-12-01T17:32:20.705] [INFO] server - WSMS servier listening on port 4000
+[2019-12-01T17:32:27.839] [INFO] server - Successfully processed search sensor query
+[2019-12-01T17:32:27.931] [INFO] server - User log transaction is sccuess
+[2019-12-01T17:33:07.233] [ERROR] server - Failed to add new sensor
+[2019-12-01T17:33:07.233] [TRACE] server - { Error: ER_NO_REFERENCED_ROW_2: Cannot add or update a child row: a foreign key constraint fails (`wsms`.`sensor`, CONSTRAINT `sensor_ibfk_1` FOREIGN KEY (`sensor_station_id`) REFERENCES `sensor_station` (`sensor_station_id`) ON DELETE CASCADE ON UPDATE CASCADE)
+    at Query.Sequence._packetToError (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/mysql/lib/protocol/sequences/Query.js:77:18)
+    at Protocol._parsePacket (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/mysql/lib/Connection.js:91:28)
+    at Socket.<anonymous> (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/mysql/lib/Connection.js:525:10)
+    at Socket.emit (events.js:197:13)
+    at addChunk (_stream_readable.js:288:12)
+    --------------------
+    at Protocol._enqueue (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/mysql/lib/protocol/Protocol.js:144:48)
+    at Connection.query (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/mysql/lib/Connection.js:201:25)
+    at app.post (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/index.js:302:16)
+    at Layer.handle [as handle_request] (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/express/lib/router/layer.js:95:5)
+    at next (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/express/lib/router/layer.js:95:5)
+    at /Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/express/lib/router/index.js:335:12)
+    at next (/Users/siyicai/Documents/SJSU/226Material/projects/project3/WSMS_server/node_modules/express/lib/router/index.js:275:10)
+  code: 'ER_NO_REFERENCED_ROW_2',
+  errno: 1452,
+  sqlMessage:
+   'Cannot add or update a child row: a foreign key constraint fails (`wsms`.`sensor`, CONSTRAINT `sensor_ibfk_1` FOREIGN KEY (`sensor_station_id`) REFERENCES `sensor_station` (`sensor_station_id`) ON DELETE CASCADE ON UPDATE CASCADE)',
+  sqlState: '23000',
+  index: 0,
+  sql:
+   "CALL InsertSensorData('undefined','2018-12-13','NORMAL','undefined','13.46','14.89', @message); select @message;" }
+[2019-12-01T17:33:07.260] [INFO] server - User log transaction is sccuess
+[2019-12-01T17:33:18.238] [INFO] server - Successfully added new sensor
+[2019-12-01T17:33:18.243] [INFO] server - User log transaction is sccuess
+[2019-12-01T17:33:27.988] [INFO] server - Successfully processed search sensor query
+[2019-12-01T17:33:28.041] [INFO] server - User log transaction is sccuess
+[2019-12-01T17:33:39.333] [INFO] server - Successfully processed dashboard query
+[2019-12-01T17:33:39.357] [INFO] server - Successfully processed dashboard query
+[2019-12-01T17:33:46.381] [INFO] server - Successfully processed dashboard query
+[2019-12-01T17:33:46.403] [INFO] server - Successfully processed dashboard query
+[2019-12-01T17:34:49.697] [INFO] server - Successfully processed dashboard query
+[2019-12-01T17:34:49.946] [INFO] server - Successfully processed dashboard query
+[2019-12-01T17:36:19.866] [INFO] server - WSMS servier listening on port 4000
+[2019-12-01T17:36:23.357] [INFO] server - Successfully processed search sensor query
+[2019-12-01T17:36:23.418] [INFO] server - User log transaction is sccuess
+[2019-12-01T17:36:36.949] [INFO] server - Successfully processed dashboard query
+[2019-12-01T17:36:36.976] [INFO] server - Successfully processed dashboard query
+[2019-12-01T17:36:47.498] [INFO] server - Successfully proccessed login query
+[2019-12-01T17:36:47.499] [DEBUG] server - User not exists.
+[2019-12-01T17:37:01.978] [INFO] server - Successfully registered new user
+[2019-12-01T17:37:14.731] [INFO] server - Successfully proccessed login query
+[2019-12-01T17:37:14.731] [INFO] server - Successfully login
+[2019-12-01T17:37:14.838] [INFO] server - Successfully processed dashboard query
+[2019-12-01T17:37:14.875] [INFO] server - Successfully processed dashboard query
+[2019-12-01T17:37:19.454] [INFO] server - Successfully processed dashboard query
+[2019-12-01T17:37:19.476] [INFO] server - Successfully processed dashboard query
+[2019-12-01T17:44:22.699] [INFO] server - Successfully proccessed login query
+[2019-12-01T17:44:22.699] [INFO] server - Successfully login
+[2019-12-01T17:44:22.814] [INFO] server - Successfully processed dashboard query
+[2019-12-01T17:44:22.847] [INFO] server - Successfully processed dashboard query
+[2019-12-01T17:44:36.685] [INFO] server - Successfully proccessed login query
+[2019-12-01T17:44:36.686] [INFO] server - Successfully login
+[2019-12-01T17:44:36.761] [INFO] server - Successfully processed dashboard query
+[2019-12-01T17:44:36.773] [INFO] server - Successfully processed dashboard query
+[2019-12-01T17:51:16.759] [INFO] server - Successfully processed dashboard query
+[2019-12-01T17:51:16.791] [INFO] server - Successfully processed dashboard query
+[2019-12-01T17:51:32.999] [INFO] server - Successfully proccessed login query
+[2019-12-01T17:51:32.999] [INFO] server - Successfully login
+[2019-12-01T17:51:33.122] [INFO] server - Successfully processed dashboard query
+[2019-12-01T17:51:33.140] [INFO] server - Successfully processed dashboard query
+[2019-12-01T17:51:52.850] [INFO] server - Successfully processed search sensor query
+[2019-12-01T17:51:52.882] [INFO] server - Admin log transaction is sccuess
+[2019-12-01T17:52:00.797] [INFO] server - Successfully processed search sensor query
+[2019-12-01T17:52:00.842] [INFO] server - Admin log transaction is sccuess
+[2019-12-01T17:52:15.208] [INFO] server - Successfully processed dashboard query
+[2019-12-01T17:52:15.243] [INFO] server - Successfully processed dashboard query
+[2019-12-01T17:52:22.075] [INFO] server - Successfully processed search sensor query
+[2019-12-01T17:52:22.113] [INFO] server - Admin log transaction is sccuess
+[2019-12-01T17:52:28.137] [INFO] server - Successfully processed dashboard query
+[2019-12-01T17:52:28.157] [INFO] server - Successfully processed dashboard query
+[2019-12-01T17:55:37.137] [INFO] server - WSMS servier listening on port 4000
+[2019-12-01T17:55:52.496] [INFO] server - Successfully proccessed login query
+[2019-12-01T17:55:52.496] [INFO] server - Successfully login
+[2019-12-01T17:55:52.600] [INFO] server - Successfully processed dashboard query
+[2019-12-01T17:55:52.626] [INFO] server - Successfully processed dashboard query
+[2019-12-01T17:55:52.657] [INFO] server - Admin log transaction is sccuess
+[2019-12-01T17:56:32.062] [INFO] server - Successfully proccessed login query
+[2019-12-01T17:56:32.063] [INFO] server - Successfully login
+[2019-12-01T17:56:32.122] [INFO] server - Admin log transaction is sccuess
+[2019-12-01T17:56:32.129] [INFO] server - Successfully processed dashboard query
+[2019-12-01T17:56:32.156] [INFO] server - Successfully processed dashboard query
+[2019-12-01T17:57:02.482] [INFO] server - Successfully processed search sensor query
+[2019-12-01T17:57:02.507] [INFO] server - Admin log transaction is sccuess
+[2019-12-01T18:01:13.315] [INFO] server - WSMS servier listening on port 4000
+[2019-12-01T18:01:56.924] [INFO] server - WSMS servier listening on port 4000
+[2019-12-01T18:02:13.230] [INFO] server - WSMS servier listening on port 4000
+[2019-12-01T18:06:02.285] [INFO] server - WSMS servier listening on port 4000
+[2019-12-01T18:06:47.800] [INFO] server - WSMS servier listening on port 4000
+[2019-12-01T18:07:08.657] [INFO] server - WSMS servier listening on port 4000
+[2019-12-01T18:07:59.652] [INFO] server - WSMS servier listening on port 4000
+[2019-12-01T18:08:34.374] [INFO] server - WSMS servier listening on port 4000
+[2019-12-01T18:09:42.830] [INFO] server - Successfully proccessed login query
+[2019-12-01T18:09:42.831] [INFO] server - Successfully login
+[2019-12-01T18:09:42.932] [INFO] server - Admin log transaction is sccuess
+[2019-12-01T18:09:42.945] [INFO] server - Successfully processed dashboard query
+[2019-12-01T18:09:42.970] [INFO] server - Successfully processed dashboard query
+[2019-12-01T18:12:21.456] [INFO] server - WSMS servier listening on port 4000
+[2019-12-01T18:14:05.952] [INFO] server - WSMS servier listening on port 4000
+[2019-12-01T18:14:46.531] [INFO] server - Successfully proccessed login query
+[2019-12-01T18:14:46.532] [INFO] server - Successfully login
+[2019-12-01T18:14:46.703] [INFO] server - Successfully processed dashboard query
+[2019-12-01T18:14:46.711] [INFO] server - Successfully processed dashboard query
+[2019-12-01T18:14:46.753] [INFO] server - Admin log transaction is sccuess
+[2019-12-01T18:17:07.574] [INFO] server - WSMS servier listening on port 4000
+[2019-12-01T18:17:26.843] [INFO] server - Successfully proccessed login query
+[2019-12-01T18:17:26.844] [INFO] server - Successfully login
+[2019-12-01T18:17:26.991] [INFO] server - Successfully processed dashboard query
+[2019-12-01T18:17:27.014] [INFO] server - Successfully processed dashboard query
+[2019-12-01T18:17:27.035] [INFO] server - Admin log transaction is sccuess
+[2019-12-01T18:20:12.369] [INFO] server - WSMS servier listening on port 4000
+[2019-12-01T18:20:29.228] [INFO] server - Successfully proccessed login query
+[2019-12-01T18:20:29.228] [INFO] server - Successfully login
+[2019-12-01T18:20:29.393] [INFO] server - Successfully processed dashboard query
+[2019-12-01T18:20:29.414] [INFO] server - Successfully processed dashboard query
+[2019-12-01T18:20:29.446] [INFO] server - User log transaction is sccuess
+[2019-12-01T18:21:04.247] [INFO] server - Successfully proccessed login query
+[2019-12-01T18:21:04.247] [INFO] server - Successfully login
+[2019-12-01T18:21:04.412] [INFO] server - Successfully processed dashboard query
+[2019-12-01T18:21:04.431] [INFO] server - Successfully processed dashboard query
+[2019-12-01T18:21:04.451] [INFO] server - Admin log transaction is sccuess
+[2019-12-01T18:22:03.555] [INFO] server - WSMS servier listening on port 4000
+[2019-12-01T18:22:06.598] [INFO] server - User log transaction is sccuess
+[2019-12-01T18:30:33.784] [INFO] server - Successfully proccessed login query
+[2019-12-01T18:30:33.785] [INFO] server - Successfully login
+[2019-12-01T18:30:33.885] [INFO] server - Admin log transaction is sccuess
+[2019-12-01T18:30:33.945] [INFO] server - Successfully processed dashboard query
+[2019-12-01T18:30:34.028] [INFO] server - Successfully processed dashboard query
+[2019-12-01T18:30:40.800] [INFO] server - Successfully processed search sensor query
+[2019-12-01T18:30:40.881] [INFO] server - Admin log transaction is sccuess
+[2019-12-01T18:33:40.916] [INFO] server - WSMS servier listening on port 4000
+[2019-12-01T18:35:24.210] [INFO] server - WSMS servier listening on port 4000
+[2019-12-04T11:31:31.181] [INFO] server - WSMS servier listening on port 4000
+[2019-12-04T11:33:25.998] [INFO] server - Successfully proccessed login query
+[2019-12-04T11:33:25.999] [INFO] server - Successfully login
+[2019-12-04T11:33:26.255] [INFO] server - Successfully processed dashboard query
+[2019-12-04T11:33:26.304] [INFO] server - Admin log transaction is sccuess
+[2019-12-04T11:33:26.341] [INFO] server - Successfully processed dashboard query
+[2019-12-04T11:33:34.094] [INFO] server - Successfully processed search sensor query
+[2019-12-04T11:33:34.106] [INFO] server - Admin log transaction is sccuess
+[2019-12-04T11:34:10.802] [INFO] server - Successfully processed dashboard query
+[2019-12-04T11:34:10.820] [INFO] server - Successfully processed dashboard query
+[2019-12-04T11:36:17.825] [INFO] server - Successfully processed dashboard query
+[2019-12-04T11:36:17.848] [INFO] server - Successfully processed dashboard query
+[2019-12-04T11:36:37.134] [INFO] server - Successfully processed dashboard query
+[2019-12-04T11:36:37.161] [INFO] server - Successfully processed dashboard query
+[2019-12-04T11:36:54.619] [INFO] server - User log transaction is sccuess
+[2019-12-04T11:48:53.875] [INFO] server - Successfully proccessed login query
+[2019-12-04T11:48:53.876] [INFO] server - Successfully login
+[2019-12-04T11:48:53.977] [INFO] server - Successfully processed dashboard query
+[2019-12-04T11:48:54.001] [INFO] server - Successfully processed dashboard query
+[2019-12-04T11:48:54.016] [INFO] server - Admin log transaction is sccuess
+[2019-12-04T11:49:21.206] [INFO] server - Successfully processed search sensor query
+[2019-12-04T11:49:21.223] [INFO] server - Admin log transaction is sccuess
+[2019-12-04T11:50:01.118] [INFO] server - Successfully added new sensor
+[2019-12-04T11:50:01.142] [INFO] server - Admin log transaction is sccuess
+[2019-12-04T11:50:08.023] [INFO] server - Successfully processed search sensor query
+[2019-12-04T11:50:08.045] [INFO] server - Admin log transaction is sccuess
+[2019-12-04T11:52:44.743] [INFO] server - Successfully added new sensor
+[2019-12-04T11:52:44.751] [INFO] server - Admin log transaction is sccuess
+[2019-12-04T11:54:10.874] [INFO] server - Successfully deleted sensor
+[2019-12-04T11:54:10.878] [ERROR] server - null
+[2019-12-04T11:56:37.504] [INFO] server - WSMS servier listening on port 4000
+[2019-12-04T11:56:45.914] [INFO] server - WSMS servier listening on port 4000
+[2019-12-04T11:57:16.813] [INFO] server - Successfully deleted sensor
+[2019-12-04T11:57:16.865] [INFO] server - User log transaction is sccuess
+[2019-12-04T11:58:46.463] [INFO] server - Successfully added/updated new sensor station
+[2019-12-04T11:58:46.472] [INFO] server - User log transaction is sccuess
+[2019-12-04T11:58:55.991] [INFO] server - Successfully processed search sensor query
+[2019-12-04T11:58:56.019] [INFO] server - User log transaction is sccuess
+[2019-12-04T11:59:25.505] [INFO] server - Successfully added/updated new sensor station
+[2019-12-04T11:59:25.510] [INFO] server - User log transaction is sccuess
+[2019-12-04T11:59:58.023] [INFO] server - Successfully deleted sensor station
+[2019-12-04T11:59:58.030] [INFO] server - User log transaction is sccuess
+[2019-12-04T12:00:47.199] [INFO] server - User log transaction is sccuess
+[2019-12-04T12:01:26.548] [INFO] server - Successfully proccessed login query
+[2019-12-04T12:01:26.548] [DEBUG] server - User not exists.
+[2019-12-04T12:01:48.520] [INFO] server - Successfully proccessed login query
+[2019-12-04T12:01:48.521] [INFO] server - Successfully login
+[2019-12-04T12:01:48.529] [INFO] server - User log transaction is sccuess
+[2019-12-04T12:01:48.631] [INFO] server - Successfully processed dashboard query
+[2019-12-04T12:01:48.679] [INFO] server - Successfully processed dashboard query
+[2019-12-04T12:01:59.983] [INFO] server - Successfully processed search sensor query
+[2019-12-04T12:02:00.004] [INFO] server - User log transaction is sccuess
+[2019-12-04T12:02:03.758] [INFO] server - User log transaction is sccuess
+[2019-12-04T12:02:50.164] [INFO] server - Successfully proccessed login query
+[2019-12-04T12:02:50.164] [INFO] server - Successfully login
+[2019-12-04T12:02:50.238] [INFO] server - Successfully processed dashboard query
+[2019-12-04T12:02:50.269] [INFO] server - Successfully processed dashboard query
+[2019-12-04T12:02:50.291] [INFO] server - Admin log transaction is sccuess
+[2019-12-04T12:02:55.907] [INFO] server - Successfully processed search sensor query
+[2019-12-04T12:02:55.924] [INFO] server - Admin log transaction is sccuess
+[2019-12-04T12:03:22.031] [INFO] server - Successfully added new sensor
+[2019-12-04T12:03:22.038] [INFO] server - Admin log transaction is sccuess
+[2019-12-04T12:03:29.030] [INFO] server - Successfully processed search sensor query
+[2019-12-04T12:03:29.047] [INFO] server - Admin log transaction is sccuess
+[2019-12-04T12:04:04.527] [INFO] server - Successfully added new sensor
+[2019-12-04T12:04:04.529] [INFO] server - Admin log transaction is sccuess
+[2019-12-04T12:04:22.760] [INFO] server - Successfully deleted sensor
+[2019-12-04T12:04:22.768] [INFO] server - Admin log transaction is sccuess
+[2019-12-04T12:04:37.903] [INFO] server - Successfully added/updated new sensor station
+[2019-12-04T12:04:37.907] [INFO] server - Admin log transaction is sccuess
+[2019-12-04T12:04:45.874] [INFO] server - Successfully processed search sensor query
+[2019-12-04T12:04:45.891] [INFO] server - Admin log transaction is sccuess
+[2019-12-04T12:05:02.994] [INFO] server - Successfully added/updated new sensor station
+[2019-12-04T12:05:03.000] [INFO] server - Admin log transaction is sccuess
+[2019-12-04T12:05:27.686] [INFO] server - Successfully deleted sensor station
+[2019-12-04T12:05:27.689] [INFO] server - Admin log transaction is sccuess
+[2019-12-04T12:05:39.762] [INFO] server - User log transaction is sccuess
+[2019-12-04T12:16:25.236] [INFO] server - WSMS servier listening on port 4000
+[2019-12-04T12:16:42.029] [INFO] server - Successfully proccessed login query
+[2019-12-04T12:16:42.030] [INFO] server - Successfully login
+[2019-12-04T12:16:42.087] [INFO] server - Admin log transaction is sccuess
+[2019-12-04T12:16:42.104] [INFO] server - Successfully processed dashboard query
+[2019-12-04T12:16:42.162] [INFO] server - Successfully processed dashboard query
+[2019-12-04T12:16:59.100] [INFO] server - User log transaction is sccuess
+[2019-12-04T12:18:34.133] [INFO] server - WSMS servier listening on port 4000
+[2019-12-04T12:18:49.940] [INFO] server - Successfully proccessed login query
+[2019-12-04T12:18:49.940] [INFO] server - Successfully login
+[2019-12-04T12:18:50.032] [INFO] server - Admin log transaction is sccuess
+[2019-12-04T12:18:50.052] [INFO] server - Successfully processed dashboard query
+[2019-12-04T12:18:50.077] [INFO] server - Successfully processed dashboard query
+[2019-12-04T12:18:51.208] [INFO] server - User log transaction is sccuess
+[2019-12-04T12:20:29.912] [INFO] server - WSMS servier listening on port 4000
+[2019-12-04T12:21:43.049] [INFO] server - WSMS servier listening on port 4000
+[2019-12-04T12:22:02.444] [INFO] server - WSMS servier listening on port 4000
+[2019-12-04T12:22:15.592] [INFO] server - Successfully proccessed login query
+[2019-12-04T12:22:15.593] [INFO] server - Successfully login
+[2019-12-04T12:22:15.676] [INFO] server - Successfully processed dashboard query
+[2019-12-04T12:22:15.701] [INFO] server - Successfully processed dashboard query
+[2019-12-04T12:22:15.743] [INFO] server - Admin log transaction is sccuess
+[2019-12-04T12:22:17.326] [INFO] server - User log transaction is sccuess
+[2019-12-04T12:23:04.703] [INFO] server - WSMS servier listening on port 4000
+[2019-12-04T12:23:17.509] [INFO] server - Successfully proccessed login query
+[2019-12-04T12:23:17.510] [INFO] server - Successfully login
+[2019-12-04T12:23:17.588] [INFO] server - Admin log transaction is sccuess
+[2019-12-04T12:23:17.624] [INFO] server - Successfully processed dashboard query
+[2019-12-04T12:23:17.651] [INFO] server - Successfully processed dashboard query
+[2019-12-04T12:23:18.992] [INFO] server - User log transaction is sccuess
+[2019-12-04T12:24:31.813] [INFO] server - WSMS servier listening on port 4000
+[2019-12-04T12:24:48.299] [INFO] server - Successfully proccessed login query
+[2019-12-04T12:24:48.300] [INFO] server - Successfully login
+[2019-12-04T12:24:48.439] [INFO] server - Successfully processed dashboard query
+[2019-12-04T12:24:48.466] [INFO] server - Successfully processed dashboard query
+[2019-12-04T12:24:48.490] [INFO] server - Admin log transaction is sccuess
+[2019-12-04T12:24:49.790] [INFO] server - User log transaction is sccuess
+[2019-12-04T12:27:06.486] [INFO] server - WSMS servier listening on port 4000
+[2019-12-04T12:27:19.356] [INFO] server - Successfully proccessed login query
+[2019-12-04T12:27:19.357] [INFO] server - Successfully login
+[2019-12-04T12:27:19.452] [INFO] server - Successfully processed dashboard query
+[2019-12-04T12:27:19.463] [INFO] server - Admin log transaction is sccuess
+[2019-12-04T12:27:19.486] [INFO] server - Successfully processed dashboard query
+[2019-12-04T12:27:25.322] [INFO] server - Successfully processed search sensor query
+[2019-12-04T12:27:25.332] [INFO] server - Admin log transaction is sccuess
+[2019-12-04T12:27:30.261] [INFO] server - Admin log transaction is sccuess
+[2019-12-04T12:29:20.364] [INFO] server - Successfully proccessed login query
+[2019-12-04T12:29:20.364] [INFO] server - Successfully login
+[2019-12-04T12:29:20.497] [INFO] server - Successfully processed dashboard query
+[2019-12-04T12:29:20.529] [INFO] server - Successfully processed dashboard query
+[2019-12-04T12:29:20.547] [INFO] server - Admin log transaction is sccuess
+[2019-12-04T12:29:32.133] [INFO] server - Successfully processed search sensor query
+[2019-12-04T12:29:32.190] [INFO] server - Admin log transaction is sccuess
+[2019-12-04T12:30:07.606] [INFO] server - Successfully added new sensor
+[2019-12-04T12:30:07.613] [INFO] server - Admin log transaction is sccuess
+[2019-12-04T12:30:15.311] [INFO] server - Successfully processed search sensor query
+[2019-12-04T12:30:15.349] [INFO] server - Admin log transaction is sccuess
+[2019-12-04T12:30:54.012] [INFO] server - Successfully added new sensor
+[2019-12-04T12:30:54.016] [INFO] server - Admin log transaction is sccuess
+[2019-12-04T12:31:24.474] [INFO] server - Successfully deleted sensor
+[2019-12-04T12:31:24.486] [INFO] server - Admin log transaction is sccuess
+[2019-12-04T12:31:48.965] [INFO] server - Successfully added/updated new sensor station
+[2019-12-04T12:31:48.972] [INFO] server - Admin log transaction is sccuess
+[2019-12-04T12:31:57.655] [INFO] server - Successfully processed search sensor query
+[2019-12-04T12:31:57.688] [INFO] server - Admin log transaction is sccuess
+[2019-12-04T12:32:18.541] [INFO] server - Successfully added/updated new sensor station
+[2019-12-04T12:32:18.549] [INFO] server - Admin log transaction is sccuess
+[2019-12-04T12:32:59.914] [INFO] server - Successfully deleted sensor station
+[2019-12-04T12:32:59.918] [INFO] server - Admin log transaction is sccuess
+[2019-12-04T12:33:16.524] [INFO] server - Admin log transaction is sccuess
+[2019-12-04T12:34:03.191] [INFO] server - Successfully proccessed login query
+[2019-12-04T12:34:03.192] [DEBUG] server - Passward or permission is not right
+[2019-12-04T12:34:05.073] [INFO] server - Successfully proccessed login query
+[2019-12-04T12:34:05.073] [INFO] server - Successfully login
+[2019-12-04T12:34:05.081] [INFO] server - Admin log transaction is sccuess
+[2019-12-04T12:34:05.136] [INFO] server - Successfully processed dashboard query
+[2019-12-04T12:34:05.162] [INFO] server - Successfully processed dashboard query
+[2019-12-04T12:34:13.271] [INFO] server - Successfully processed search sensor query
+[2019-12-04T12:34:13.298] [INFO] server - Admin log transaction is sccuess
+[2019-12-04T12:34:51.334] [INFO] server - Admin log transaction is sccuess
+[2019-12-04T12:36:47.541] [INFO] server - WSMS servier listening on port 4000
+[2019-12-04T12:37:00.437] [INFO] server - Successfully proccessed login query
+[2019-12-04T12:37:00.438] [INFO] server - Successfully login
+[2019-12-04T12:37:00.535] [INFO] server - Successfully processed dashboard query
+[2019-12-04T12:37:00.555] [INFO] server - Successfully processed dashboard query
+[2019-12-04T12:37:00.582] [INFO] server - Admin log transaction is sccuess
+[2019-12-04T12:37:02.849] [INFO] server - Admin log transaction is sccuess
+[2019-12-04T12:37:55.752] [INFO] server - Successfully proccessed login query
+[2019-12-04T12:37:55.753] [INFO] server - Successfully login
+[2019-12-04T12:37:55.889] [INFO] server - Successfully processed dashboard query
+[2019-12-04T12:37:55.912] [INFO] server - Successfully processed dashboard query
+[2019-12-04T12:37:55.942] [INFO] server - Admin log transaction is sccuess
+[2019-12-04T12:43:51.915] [INFO] server - WSMS servier listening on port 4000
+[2019-12-04T12:43:55.427] [INFO] server - User log transaction is sccuess
+[2019-12-04T12:44:33.406] [INFO] server - Successfully proccessed login query
+[2019-12-04T12:44:33.407] [INFO] server - Successfully login
+[2019-12-04T12:44:33.497] [INFO] server - Admin log transaction is sccuess
+[2019-12-04T12:44:33.588] [INFO] server - Successfully processed dashboard query
+[2019-12-04T12:44:33.632] [INFO] server - Successfully processed dashboard query
+[2019-12-04T12:45:01.537] [INFO] server - WSMS servier listening on port 4000
+[2019-12-04T12:45:04.533] [INFO] server - User log transaction is sccuess
+[2019-12-04T12:45:21.447] [INFO] server - Successfully proccessed login query
+[2019-12-04T12:45:21.448] [INFO] server - Successfully login
+[2019-12-04T12:45:21.608] [INFO] server - Successfully processed dashboard query
+[2019-12-04T12:45:21.638] [INFO] server - Successfully processed dashboard query
+[2019-12-04T12:45:21.686] [INFO] server - User log transaction is sccuess
+[2019-12-04T12:45:37.418] [INFO] server - Successfully processed search sensor query
+[2019-12-04T12:45:37.494] [INFO] server - User log transaction is sccuess
+[2019-12-04T12:45:40.114] [INFO] server - User log transaction is sccuess
+[2019-12-04T12:46:06.913] [INFO] server - Successfully proccessed login query
+[2019-12-04T12:46:06.913] [INFO] server - Successfully login
+[2019-12-04T12:46:07.090] [INFO] server - Successfully processed dashboard query
+[2019-12-04T12:46:07.113] [INFO] server - Successfully processed dashboard query
+[2019-12-04T12:46:07.138] [INFO] server - User log transaction is sccuess
+[2019-12-04T12:46:13.598] [INFO] server - User log transaction is sccuess
+[2019-12-04T12:50:15.032] [INFO] server - WSMS servier listening on port 4000
+[2019-12-04T12:50:24.885] [INFO] server - Successfully proccessed login query
+[2019-12-04T12:50:24.886] [INFO] server - Successfully login
+[2019-12-04T12:50:24.946] [INFO] server - Admin log transaction is sccuess
+[2019-12-04T12:50:24.984] [INFO] server - Successfully processed dashboard query
+[2019-12-04T12:50:25.040] [INFO] server - Successfully processed dashboard query
+[2019-12-04T12:50:27.115] [INFO] server - Admin log transaction is sccuess
+[2019-12-04T12:51:02.748] [INFO] server - Successfully proccessed login query
+[2019-12-04T12:51:02.748] [INFO] server - Successfully login
+[2019-12-04T12:51:02.812] [INFO] server - User log transaction is sccuess
+[2019-12-04T12:51:02.837] [INFO] server - Successfully processed dashboard query
+[2019-12-04T12:51:02.883] [INFO] server - Successfully processed dashboard query
+[2019-12-04T12:51:05.414] [INFO] server - User log transaction is sccuess
+[2019-12-04T12:51:56.476] [INFO] server - Successfully proccessed login query
+[2019-12-04T12:51:56.476] [INFO] server - Successfully login
+[2019-12-04T12:51:56.547] [INFO] server - Admin log transaction is sccuess
+[2019-12-04T12:51:56.565] [INFO] server - Successfully processed dashboard query
+[2019-12-04T12:51:56.596] [INFO] server - Successfully processed dashboard query
+[2019-12-04T12:52:06.823] [INFO] server - Successfully processed search sensor query
+[2019-12-04T12:52:06.857] [INFO] server - Admin log transaction is sccuess
+[2019-12-04T12:52:34.104] [INFO] server - Successfully added new sensor
+[2019-12-04T12:52:34.114] [INFO] server - Admin log transaction is sccuess
+[2019-12-04T12:52:41.424] [INFO] server - Successfully processed search sensor query
+[2019-12-04T12:52:41.465] [INFO] server - Admin log transaction is sccuess
+[2019-12-04T12:53:04.644] [INFO] server - Successfully added new sensor
+[2019-12-04T12:53:04.651] [INFO] server - Admin log transaction is sccuess
+[2019-12-04T12:53:21.992] [INFO] server - Successfully deleted sensor
+[2019-12-04T12:53:22.004] [INFO] server - Admin log transaction is sccuess
+[2019-12-04T12:53:37.795] [INFO] server - Successfully added/updated new sensor station
+[2019-12-04T12:53:37.807] [INFO] server - Admin log transaction is sccuess
+[2019-12-04T12:53:44.062] [INFO] server - Successfully processed search sensor query
+[2019-12-04T12:53:44.083] [INFO] server - Admin log transaction is sccuess
+[2019-12-04T12:53:57.978] [INFO] server - Successfully added/updated new sensor station
+[2019-12-04T12:53:57.989] [INFO] server - Admin log transaction is sccuess
+[2019-12-04T12:54:14.465] [INFO] server - Successfully deleted sensor station
+[2019-12-04T12:54:14.481] [INFO] server - Admin log transaction is sccuess
+[2019-12-04T12:54:24.270] [INFO] server - Admin log transaction is sccuess
+[2019-12-04T12:54:52.394] [INFO] server - Successfully proccessed login query
+[2019-12-04T12:54:52.394] [INFO] server - Successfully login
+[2019-12-04T12:54:52.496] [INFO] server - Successfully processed dashboard query
+[2019-12-04T12:54:52.514] [INFO] server - User log transaction is sccuess
+[2019-12-04T12:54:52.542] [INFO] server - Successfully processed dashboard query
+[2019-12-04T12:54:59.227] [INFO] server - Successfully processed search sensor query
+[2019-12-04T12:54:59.249] [INFO] server - User log transaction is sccuess
+[2019-12-04T12:55:03.996] [INFO] server - User log transaction is sccuess
+[2019-12-04T13:49:57.974] [INFO] server - WSMS servier listening on port 4000
+[2019-12-04T14:05:40.480] [INFO] server - Successfully proccessed login query
+[2019-12-04T14:05:40.483] [INFO] server - Successfully login
+[2019-12-04T14:05:40.546] [INFO] server - Admin log transaction is sccuess
+[2019-12-04T14:05:40.580] [INFO] server - Successfully processed dashboard query
+[2019-12-04T14:05:40.598] [INFO] server - Successfully processed dashboard query
+[2019-12-04T14:06:15.585] [INFO] server - Successfully processed search sensor query
+[2019-12-04T14:06:15.602] [INFO] server - Admin log transaction is sccuess
+[2019-12-04T14:06:56.161] [INFO] server - Successfully processed search sensor query
+[2019-12-04T14:06:56.177] [INFO] server - Admin log transaction is sccuess
+[2019-12-04T14:07:29.297] [INFO] server - Successfully added new sensor
+[2019-12-04T14:07:29.304] [INFO] server - Admin log transaction is sccuess
+[2019-12-04T14:07:40.418] [INFO] server - Successfully processed search sensor query
+[2019-12-04T14:07:40.443] [INFO] server - Admin log transaction is sccuess
+[2019-12-04T14:08:07.081] [INFO] server - Successfully added new sensor
+[2019-12-04T14:08:07.089] [INFO] server - Admin log transaction is sccuess
+[2019-12-04T14:08:27.610] [INFO] server - Successfully deleted sensor
+[2019-12-04T14:08:27.625] [INFO] server - Admin log transaction is sccuess
+[2019-12-04T14:08:49.794] [INFO] server - Successfully added/updated new sensor station
+[2019-12-04T14:08:49.811] [INFO] server - Admin log transaction is sccuess
+[2019-12-04T14:09:02.784] [INFO] server - Successfully processed search sensor query
+[2019-12-04T14:09:02.815] [INFO] server - Admin log transaction is sccuess
+[2019-12-04T14:09:19.700] [INFO] server - Successfully added/updated new sensor station
+[2019-12-04T14:09:19.710] [INFO] server - Admin log transaction is sccuess
+[2019-12-04T14:09:37.391] [INFO] server - Successfully deleted sensor station
+[2019-12-04T14:09:37.399] [INFO] server - Admin log transaction is sccuess
+[2019-12-04T14:09:42.117] [INFO] server - Admin log transaction is sccuess
+[2019-12-04T14:09:54.996] [INFO] server - Successfully proccessed login query
+[2019-12-04T14:09:54.996] [DEBUG] server - Passward or permission is not right
+[2019-12-04T14:09:56.966] [INFO] server - Successfully proccessed login query
+[2019-12-04T14:09:56.966] [INFO] server - Successfully login
+[2019-12-04T14:09:57.002] [INFO] server - User log transaction is sccuess
+[2019-12-04T14:09:57.019] [INFO] server - Successfully processed dashboard query
+[2019-12-04T14:09:57.038] [INFO] server - Successfully processed dashboard query
